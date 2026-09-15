@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "rspress dev",
-    "build": "rspress build",
+    "build": "set NODE_OPTIONS=--max-old-space-size=16384 && rspress build",
     "preview": "rspress preview"
   },
   "devDependencies": {

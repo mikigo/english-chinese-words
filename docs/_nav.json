@@ -103,5 +103,10 @@
     "text": "雅思",
     "link": "/雅思/index",
     "activeMatch": "/index/"
+  },
+  {
+    "text": "Ogden`s Basic English",
+    "link": "/ogden_basic_english/index",
+    "activeMatch": "/ogden_basic_english/"
   }
 ]

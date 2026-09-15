@@ -1,0 +1,745 @@
+# 480_GMAT词汇
+
+## 480. defiant
+
+`di'faiənt`  **挑衅的；目中无人的，蔑视的；挑战的**
+
+:::note{title=🎤例句}
+
+- The players are in a defiant mood as they prepare for tomorrow's game. （在准备明天的比赛时，球员们态度挑衅。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- challenging, in-your-face （挑衅的；目中无人的，蔑视的；挑战的）
+
+:::
+
+
+## 481. currency
+
+`'kərənsi`  **货币；通货**
+
+:::tip{title=🤩短语}
+
+- foreign currency （n. 外币）
+
+- reserve currency （储备货币）
+
+- currency exchange （货币兑换；外汇兑换）
+
+- single currency （单一货币；统一货币）
+
+- local currency （n. 本国货币）
+
+- currency system （币制）
+
+- currency board （货币发行局；货币委员会）
+
+- paper currency （n. 纸币，钞票）
+
+- hard currency （硬通货；强势货币（等于hard money））
+
+- currency crisis （货币危机）
+
+- domestic currency （本国货币）
+
+- currency appreciation （货币升值）
+
+- currency value （币值）
+
+- currency devaluation （[经]货币贬值）
+
+- currency depreciation （货币贬值）
+
+- currency risk （通货风险）
+
+- national currency （本国货币）
+
+- electronic currency （电子货币）
+
+- foreign currency exchange （外币兑换）
+
+- strong currency （强势货币；硬通货）
+
+:::
+
+:::note{title=🎤例句}
+
+- The bank can supply you with foreign currency . （这家银行能为你提供外币。）
+
+- There are moves towards a single currency in Europe. （欧洲有向单一货币发展的趋势。）
+
+- The local currency is the Swiss franc. （当地的货币是瑞士法郎。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- money, circulating medium （[金融]货币；通货）
+
+:::
+
+
+## 482. dedicated
+
+`'dedikeitid`  **专用的；专注的；献身的**
+
+`'dedikeitid`  **以…奉献；把…用于（dedicate的过去式和过去分词）**
+
+:::tip{title=🤩短语}
+
+- dedicated line （专线；专用线路）
+
+- dedicated team （特别小组；专门小组）
+
+- dedicated computer （专用电脑）
+
+- dedicated channel （[计]专用信道）
+
+:::
+
+:::note{title=🎤例句}
+
+- a dedicated graphics processor （专用图形处理器）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- devoted, special （[计]专用的；专注的；献身的）
+
+:::
+
+
+## 483. toxic
+
+`'tɔksik`  **有毒的；中毒的**
+
+:::tip{title=🤩短语}
+
+- toxic gas （n. 毒气）
+
+- toxic effect （毒性作用；毒效）
+
+- highly toxic （剧毒；高毒性的）
+
+- toxic chemicals （有毒化学品；有毒化学物质）
+
+- toxic waste （有毒废物，毒废料）
+
+- toxic substance （有毒物）
+
+- toxic reaction （毒性反应；中毒反应）
+
+- toxic material （有毒物质）
+
+- toxic shock syndrome （中毒性休克综合症）
+
+- toxic agent （毒剂；有毒媒介；毒性药物）
+
+:::
+
+:::note{title=🎤例句}
+
+- fumes from a toxic waste dump （有毒废料堆产生的毒气）
+
+- a highly toxic pesticide （毒性很强的杀虫剂）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- poisonous, virous （[内科][毒物]有毒的；中毒的）
+
+:::
+
+
+## 484. listlessness
+
+`'listlisnis`  **无精打采；精神萎靡**
+
+:::warning{title=🤔同义词}
+
+- laziness, deadness （无精打采；精神萎靡）
+
+:::
+
+
+## 485. astronomy
+
+`ə'strɔnəmi`  **天文学**
+
+:::tip{title=🤩短语}
+
+- radio astronomy （n. 射电天文学）
+
+- physics and astronomy （物理学和天文学）
+
+- national radio astronomy observatory （国立射电天文台）
+
+:::
+
+:::note{title=🎤例句}
+
+- Do you know anything about astronomy? （你懂天文学吗?）
+
+- In both cases, these insights come not from the science of astronomy but from atmospherics — and that's not really so surprising. （两种情形下，这些见解并非来自于天文学，而是来自大气干扰—— 而且，那并不令人感到如此的吃惊。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- uranology （[天]天文学）
+
+:::
+
+
+## 486. regressive
+
+`ri'ɡresiv`  **回归的；后退的；退化的**
+
+:::note{title=🎤例句}
+
+- Many considered the changes to the welfare laws a regressive step. （许多人认为福利法的变革是一种退步。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- degenerative, vestigial （[数]回归的；后退的；退化的）
+
+:::
+
+
+## 487. reclaim
+
+`ri'kleim`  **开拓；回收再利用；改造某人，使某人悔改**
+
+`ri'kleim`  **改造，感化；再生胶**
+
+:::note{title=🎤例句}
+
+- You may be entitled to reclaim some tax. （你也许可以享受一定额度的退税。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- exploit, carve out （开拓；回收再利用；改造某人，使某人悔改）
+
+- protest against sth, exclaim at （抗议，喊叫）
+
+- reconstruction, influence （改造，感化；再生胶）
+
+:::
+
+
+## 488. swiftly
+
+`'swiftli`  **很快地；敏捷地；即刻**
+
+:::note{title=🎤例句}
+
+- Next time such an apology is likely to happen swiftly and immediately as women candidates set up media watchdog brigades to force the media to give them more equal treatment. （下一次这类道歉可能会很快地和迅速地得到处理因为女性候选人建立了媒体监察队来强迫媒体给她们一个更公平的对待。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- quickly, rapidly, promptly （很快地；敏捷地；即刻）
+
+:::
+
+
+## 489. cabinet
+
+`'kæbinit`  **内阁；橱柜；展览艺术品的小陈列室**
+
+`'kæbinit`  **内阁的；私下的，秘密的**
+
+:::tip{title=🤩短语}
+
+- control cabinet （控制柜；操纵室）
+
+- kitchen cabinet （n. 政府首脑的参谋团；厨房的餐具柜）
+
+- cabinet meeting （内阁会议；大臣会议）
+
+- filing cabinet （档案橱柜）
+
+- cabinet minister （n. 大臣；阁僚）
+
+- file cabinet （文件柜；档案柜；文卷柜）
+
+- bathroom cabinet （浴室柜）
+
+- switch cabinet （开关柜；配电箱）
+
+- cabinet door （橱柜门）
+
+- tv cabinet （电视柜；小冰箱柜）
+
+- medicine cabinet （药柜；医药箱）
+
+- electrical cabinet （电器柜；电控箱）
+
+- distribution cabinet （接线箱；配电箱）
+
+- cabinet hardware （家具用小五金）
+
+- shadow cabinet （影子内阁；（政府首脑挑选的）顾问团）
+
+- electric cabinet （电控箱）
+
+- machine cabinet （机柜；联机室）
+
+- wall cabinet （壁橱，壁柜；嵌墙绸，墙面柜）
+
+- cabinet work （细木工；细木家具）
+
+- drying cabinet （干燥箱）
+
+:::
+
+:::note{title=🎤例句}
+
+- a cabinet meeting （内阁会议）
+
+- a member of the Cabinet （内阁成员）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- ambry, council of ministers （内阁；[家具]橱柜；展览艺术品的小陈列室）
+
+- private, secret, underground, chamber, inside （内阁的；私下的，秘密的）
+
+:::
+
+
+## 490. flat
+
+**平的；单调的；不景气的；干脆的；平坦的；扁平的；浅的**
+
+**（尤指贴着另一表面）平直地；断然地；水平地；直接地，完全地**
+
+**平地；公寓；平面**
+
+**使变平；[音乐]使（音调）下降，尤指降半音**
+
+**逐渐变平；[音乐]以降调唱（或奏）**
+
+:::tip{title=🤩短语}
+
+- flat surface （平面；平整表面）
+
+- flat out （v. 竭尽全力；用全速；疲惫）
+
+- flat panel （扁平面板）
+
+- flat plate （平板；浅平盘）
+
+- fall flat （失败；达不到预想效果）
+
+- tidal flat （潮滩；潮汐平原；潮汐舱内甲板；潮汐滩）
+
+- flat knitting （横机织物；横编）
+
+- flat roof （屋顶平台）
+
+- flat steel （扁钢）
+
+- flat screen （平筛，平板筛浆机；平面屏幕）
+
+- flat knitting machine （横机；针织横机）
+
+- flat tire （没精打采；漏了气的车胎）
+
+- flat glass （平板玻璃；板玻璃）
+
+- flat panel display （平面直角显示器）
+
+- flat bottom （n. 平底；平匠）
+
+- fell flat （卧倒；引不起兴趣；完全失败）
+
+- flat land （平地；平原）
+
+- flat type （平面型；单位类型）
+
+- flat top （平顶）
+
+- flat head （北美印第安人）
+
+:::
+
+:::note{title=🎤例句}
+
+- houses with flat roofs （平顶房）
+
+- a perfectly flat sandy beach （十分平坦的沙滩）
+
+- The countryside near there is flat as a pancake (= very flat ) . （那儿附近的乡间地势非常平坦。）
+
+- Work on a clean, flat surface. （在干净、平整的台面上工作。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- even, low, level, shallow, blank （平坦的；扁平的；浅的；单调的）
+
+- positively, emphatically （平直地；断然地）
+
+- apartment, plane （平地；平面；公寓）
+
+- even （变平）
+
+:::
+
+
+## 491. simultaneous
+
+`,siməl'teiniəs`  **同时的；联立的；同时发生的**
+
+`,siməl'teiniəs`  **同时译员**
+
+:::tip{title=🤩短语}
+
+- simultaneous interpretation （同声传译）
+
+- simultaneous translation （同声传译；同步翻译）
+
+- simultaneous measurement （同步量测；同时观测）
+
+- simultaneous equation （联立方程）
+
+- simultaneous operation （同时操作）
+
+- simultaneous interpreter （同声传译员）
+
+- simultaneous equation model （联立方程模式）
+
+- simultaneous transmission （同时传输；平行传递）
+
+- simultaneous observation （同步观测；联测法）
+
+- simultaneous processing （同时处理；同时模拟输入设备）
+
+:::
+
+:::note{title=🎤例句}
+
+- They grabbed each other’s hands in simultaneous panic. （他们俩同时惊慌起来，相互抓住对方的手。）
+
+- Up to twenty users can have simultaneous access to the system. （最多可有20名用户同时登该系统。）
+
+- The speeches will be broadcast live, with simultaneous translation (= immediate translation, as the person is speaking ) into English. （这些演讲将作现场直播，并配有英语同声传译。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- synchronous, coinstantaneous （同时的；联立的；同时发生的）
+
+:::
+
+
+## 492. bygone
+
+`'baiɡɔn`  **过去的**
+
+`'baiɡɔn`  **过去的事**
+
+:::note{title=🎤例句}
+
+- The buildings reflect the elegance of a bygone era. （这些建筑物反映了过去年代的典雅。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- past, ago, back, bypast （过去的）
+
+:::
+
+
+## 493. abstract
+
+**摘要；抽象；抽象的概念**
+
+**抽象的；深奥的**
+
+**摘要；提取；使……抽象化；转移(注意力、兴趣等)；使心不在焉**
+
+:::tip{title=🤩短语}
+
+- in the abstract （抽象地；理论上；概括地）
+
+- abstract art （n. 抽象派；抽象主义）
+
+- abstract class （[计]抽象类（不允许实例化的类））
+
+- abstract thinking （抽象思维；抽象思考能力）
+
+- abstract painting （抽象画；抽象绘画）
+
+- abstract noun （抽象名词）
+
+- abstract factory （抽象工厂）
+
+- abstract data type （[计]抽象数据类型）
+
+- abstract expressionism （n. 抽象表现主义）
+
+- abstract idea （抽象观念）
+
+- abstract algebra （抽象代数）
+
+- abstract away from （对…不予考虑）
+
+:::
+
+:::note{title=🎤例句}
+
+- Talking about crime in the abstract just isn’t enough. （抽象地谈论犯罪根本不足以说明问题。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- brief, summary, resume （[图情]摘要；抽象；抽象的概念）
+
+- deep, nonobjective （抽象的；深奥的）
+
+- extract, brief （[图情]摘要；提取；使……抽象化）
+
+:::
+
+
+## 494. finite
+
+`'fainait`  **有限的；限定的**
+
+`'fainait`  **有限之物**
+
+:::tip{title=🤩短语}
+
+- finite element （有限元）
+
+- finite element method (fem) （有限元素法）
+
+- finite element method （[计]有限元法；[化]有限单元法）
+
+- finite element method (FEM) （有限元素法）
+
+- finite element analysis （有限元分析）
+
+- finite element model （有限元模式，有限元模型；有限单元体模式；有限要素模型）
+
+- finite difference （有限差）
+
+- finite difference method （有限差分法）
+
+- finite deformation （有限变形；有限形变）
+
+- finite field （[计]有限域）
+
+- finite set （有限集，有限集合）
+
+- finite difference scheme （[计]有限差分格式）
+
+- finite resource （有限资源）
+
+- finite strain （有限应变）
+
+- finite verb （限定动词，定式动词）
+
+- finite automaton （有限自动机）
+
+- finite population （有限总体；有限人口）
+
+- finite difference equation （有限差分方程）
+
+- finite value （有限值；有限数值）
+
+:::
+
+:::note{title=🎤例句}
+
+- the earth’s finite resources （地球有限的资源）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- limited, narrow （有限的；限定的）
+
+:::
+
+
+## 495. matrix
+
+`'meitriks`  **[数] 矩阵；模型；[生物][地质] 基质；母体；子宫；[地质] 脉石**
+
+:::tip{title=🤩短语}
+
+- transfer matrix （转移距阵；转换矩阵）
+
+- stiffness matrix （刚度矩阵；劲度矩阵）
+
+- metal matrix （金属基体；金属模版）
+
+- extracellular matrix （细胞外基质）
+
+- coefficient matrix （系数矩阵）
+
+- covariance matrix （[计]协方差矩阵）
+
+- matrix theory （矩阵理论）
+
+- dot matrix （点阵）
+
+- matrix equation （矩阵方程）
+
+- transformation matrix （变换矩阵，转换矩阵）
+
+- matrix analysis （矩阵分析（法））
+
+- jacobian matrix （雅可比矩阵；[数]导数矩阵）
+
+- inverse matrix （[计]矩阵求逆，逆矩阵，反矩阵）
+
+- correlation matrix （相关矩阵）
+
+- sparse matrix （[数]稀疏矩阵）
+
+- density matrix （密度矩阵）
+
+- matrix structure （矩阵结构；基地组织）
+
+- adjacency matrix （邻接矩阵，相邻矩阵）
+
+- matrix effect （基体效应）
+
+- transition matrix （跃迁矩阵）
+
+:::
+
+:::note{title=🎤例句}
+
+- a matrix table （矩阵表）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- model, shape, former, substrate （[数]矩阵；模型；[生物][地质]基质；母体；子宫；脉石）
+
+:::
+
+
+## 496. incursion
+
+`in'kə:ʃən`  **入侵；侵犯**
+
+:::note{title=🎤例句}
+
+- ...armed incursions into border areas by rebel forces. （...叛军武装入侵边境地区。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- violence, invasion, infringement （入侵；侵犯）
+
+:::
+
+
+## 497. pelvic
+
+`'pelvik`  **骨盆的**
+
+:::tip{title=🤩短语}
+
+- pelvic cavity （骨盆腔，盆腔）
+
+- pelvic inflammatory disease （盆腔炎；骨盆腔发炎；盆腔炎性疾病）
+
+- pelvic floor （骨盆底）
+
+- pelvic inflammation （盆腔炎）
+
+- pelvic pain （骨盆病）
+
+- pelvic girdle （骨盆带（等于pelvic arch））
+
+- pelvic fin （腹鳍）
+
+:::
+
+:::note{title=🎤例句}
+
+- ...an inflammation of the pelvic region. （…一种骨盆区炎症。）
+
+:::
+
+## 498. cryptic
+
+`'kriptik`  **神秘的，含义模糊的；[动] 隐藏的**
+
+:::note{title=🎤例句}
+
+- He has issued a short, cryptic statement denying the spying charges. （他发表了一个简短、令人捉摸不透的声明，否认对他从事间谍活动的指控。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- mysterious, hidden, latent （神秘的，含义模糊的；[动]隐藏的）
+
+:::
+
+
+## 499. rotational
+
+`rəu'teiʃənəl`  **转动的；回转的；轮流的**
+
+:::tip{title=🤩短语}
+
+- rotational speed （旋转速度，角速度；圆周速度）
+
+- rotational grazing （循环放牧）
+
+- rotational inertia （转动惯量；转动惯性；惯性矩）
+
+- rotational flow （旋流）
+
+- rotational molding （旋转模塑；旋转成型）
+
+- rotational velocity （自转速度；转动速度；围速）
+
+- rotational motion （回转运动；转动运动）
+
+- rotational symmetry （旋转对称；轴对称）
+
+- rotational movement （转体动作）
+
+:::
+
+:::note{title=🎤例句}
+
+- The length refers to the length of the arm; because the throwing motion is rotational from the shoulder out, the atlatl simply lengthens the arm to increase the throwing speed and force. （长度是指胳膊长度，因为抛扔运动是以肩膀关节为中心的旋转运动，这样一来，飞镖投掷器只不过是手臂的延长，因此，增加了投掷的速度和力量。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- totating, pivoted （[机]转动的；回转的；轮流的）
+
+:::
+
+
