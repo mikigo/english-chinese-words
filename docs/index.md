@@ -51,4 +51,6 @@ features:
     link: /雅思/
   - title: 高考
     link: /高考/
+  - title: Ogden's Basic English
+    link: /ogden_basic_english/
 ---
