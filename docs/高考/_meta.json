@@ -1,0 +1,16 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "高考必备词汇（图片记忆）",
+    "label": "高考必备词汇（图片记忆）",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

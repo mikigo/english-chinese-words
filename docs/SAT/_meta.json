@@ -1,0 +1,16 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "SAT词汇",
+    "label": "SAT词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

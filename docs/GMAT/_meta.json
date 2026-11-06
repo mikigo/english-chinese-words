@@ -1,0 +1,25 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "GMAT词汇",
+    "label": "GMAT词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "GMAT词汇（正序版）",
+    "label": "GMAT词汇（正序版）",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "TOEFL词汇",
+    "label": "TOEFL词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

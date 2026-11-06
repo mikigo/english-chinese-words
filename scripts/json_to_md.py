@@ -10,7 +10,7 @@ sys.path.insert(0, PROJECT_DIR)
 
 from scripts.groups import GROUPS
 
-new_md_index = [i * 300 for i in range(1, 200)]
+new_md_index = [i * 100 for i in range(1, 200)]
 
 for root, dirs, files in os.walk("books"):
     for i in files:

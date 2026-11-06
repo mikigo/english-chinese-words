@@ -136,6 +136,16 @@ def write_index_md(groups, file_paths, output_dir):
     print(f'Written {index_path}')
 
 
+def write_meta_json(output_dir):
+    """Write page order for the sidebar."""
+    order = [filename for (_, _, filename) in CATEGORY_META.values()]
+    meta_path = os.path.join(output_dir, '_meta.json')
+    with open(meta_path, 'w', encoding='utf-8') as f:
+        json.dump(order, f, ensure_ascii=False, indent=2)
+
+    print(f'Written {meta_path}')
+
+
 def main():
     print('Loading JSON...')
     data = load_json(json_path)
@@ -148,6 +158,9 @@ def main():
 
     print('\nWriting index file...')
     write_index_md(groups, file_paths, output_dir)
+
+    print('\nWriting meta file...')
+    write_meta_json(output_dir)
 
     print('\nDone!')
 

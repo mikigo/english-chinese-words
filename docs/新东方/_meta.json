@@ -1,0 +1,106 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "新东方BEC词汇",
+    "label": "新东方BEC词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方GMAT词汇",
+    "label": "新东方GMAT词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方GRE词汇",
+    "label": "新东方GRE词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方SAT词汇",
+    "label": "新东方SAT词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方TOEFL词汇",
+    "label": "新东方TOEFL词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方六级词汇",
+    "label": "新东方六级词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方初中词汇",
+    "label": "新东方初中词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方四级词汇",
+    "label": "新东方四级词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方考研词汇",
+    "label": "新东方考研词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方雅思词汇",
+    "label": "新东方雅思词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "新东方高中词汇",
+    "label": "新东方高中词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

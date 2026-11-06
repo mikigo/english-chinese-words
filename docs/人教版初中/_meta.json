@@ -1,0 +1,52 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "人教版初中英语-七年级上册",
+    "label": "人教版初中英语-七年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版初中英语-七年级下册",
+    "label": "人教版初中英语-七年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版初中英语-九年级全册",
+    "label": "人教版初中英语-九年级全册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版初中英语-八年级上册",
+    "label": "人教版初中英语-八年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版初中英语-八年级下册",
+    "label": "人教版初中英语-八年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

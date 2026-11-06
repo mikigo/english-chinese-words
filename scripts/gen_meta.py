@@ -6,6 +6,10 @@ def gen_index_meta():
             continue
         if os.path.isfile(f"../docs/{dir}"):
             continue
+        subdirs = [i for i in os.listdir(f"../docs/{dir}") if os.path.isdir(f"../docs/{dir}/{i}")]
+        # 没有子目录的分类（如 ogden_basic_english）使用页面级 _meta.json，不生成分类元数据
+        if not subdirs:
+            continue
         lst = [
             {
                 "type": "file",
@@ -14,15 +18,13 @@ def gen_index_meta():
             }
         ]
 
-        for i in os.listdir(f"../docs/{dir}"):
-            if os.path.isfile(f"../docs/{dir}/{i}"):
-                continue
+        for i in subdirs:
             lst.append({
                 "type": "dir",
                 "name": i,
                 "label": i,
                 "collapsed": True,
-                "overviewHeaders": "[1]"
+                "overviewHeaders": [1]
             })
         with open(f"../docs/{dir}/_meta.json", "w", encoding="utf-8") as f:
             json.dump(lst, f, ensure_ascii=False, indent=2)
@@ -50,4 +52,5 @@ def gen_md_meta():
 
 
 if __name__ == '__main__':
+    gen_index_meta()
     gen_md_meta()

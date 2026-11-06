@@ -1,0 +1,34 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "六级真题核心词（图片记忆）",
+    "label": "六级真题核心词（图片记忆）",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "六级真题核心词（正序版）",
+    "label": "六级真题核心词（正序版）",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "六级英语词汇",
+    "label": "六级英语词汇",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "章节预览"
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-三年级上册",
+    "label": "人教版小学英语-三年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-三年级下册",
+    "label": "人教版小学英语-三年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-五年级上册",
+    "label": "人教版小学英语-五年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-五年级下册",
+    "label": "人教版小学英语-五年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-六年级上册",
+    "label": "人教版小学英语-六年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-六年级下册",
+    "label": "人教版小学英语-六年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-四年级上册",
+    "label": "人教版小学英语-四年级上册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  },
+  {
+    "type": "dir",
+    "name": "人教版小学英语-四年级下册",
+    "label": "人教版小学英语-四年级下册",
+    "collapsed": true,
+    "overviewHeaders": [
+      1
+    ]
+  }
+]
