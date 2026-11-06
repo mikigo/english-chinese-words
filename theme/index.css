@@ -1,11 +1,296 @@
-/* Simulate the centering behavior when sidebar: false  */
-/* Avoid having the visual center too far to the right */
-@media (min-width: 1280px) {
-  .rp-doc-layout__sidebar-placeholder {
-    width: 12vw !important;
+/* ===== 隐藏搜索框 ===== */
+.rp-search-button,
+.rp-search-button--mobile {
+  display: none !important;
+}
+
+/* ===== sidebar 去掉实色背景 ===== */
+.rp-doc-layout__sidebar {
+  background: transparent !important;
+}
+
+/* 左上角 logoText 使用 Georgia 衬线字体 */
+.rp-nav__title__link {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif SC', serif !important;
+}
+
+/* 径向渐变纸纹 — 1px 点阵 + mix-blend-mode */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: radial-gradient(rgba(20,22,28,0.03) 1px, transparent 1px);
+  background-size: 3px 3px;
+  mix-blend-mode: multiply;
+}
+
+html.rp-dark body::before {
+  mix-blend-mode: screen;
+  background-image: radial-gradient(rgba(255,250,240,0.025) 1px, transparent 1px);
+}
+
+#__rspress_root {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== 隐藏 Rspress 原生 hero 和 features ===== */
+.custom-hero ~ .rp-home-hero {
+  display: none !important;
+}
+.rp-home-feature {
+  display: none !important;
+}
+
+/* ===== 自定义双栏 Hero ===== */
+.custom-hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 56px;
+  max-width: 1240px;
+  margin: 80px auto 0;
+  padding: 0 24px;
+  align-items: start;
+}
+
+/* 左侧 */
+.custom-hero__main {
+  padding-top: 24px;
+}
+
+.custom-hero__title {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif SC', serif;
+  font-size: 2.75rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--rp-c-text-1);
+  margin: 0 0 4px;
+}
+
+.custom-hero__en {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif SC', serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: var(--rp-c-text-2);
+  margin: 0 0 20px;
+}
+
+.custom-hero__sub {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif SC', serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--rp-c-text-2);
+  margin: 0 0 8px;
+}
+
+.custom-hero__desc {
+  font-size: 0.938rem;
+  line-height: 1.7;
+  color: var(--rp-c-text-3);
+  margin: 0 0 32px;
+  max-width: 480px;
+}
+
+/* 数据统计 */
+.custom-hero__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-bottom: 24px;
+}
+
+.custom-hero__stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.custom-hero__stat-num {
+  font-family: 'Georgia', 'Noto Serif SC', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--rp-c-text-1);
+}
+
+.custom-hero__stat-label {
+  font-size: 0.75rem;
+  color: var(--rp-c-text-3);
+  letter-spacing: 0.04em;
+}
+
+/* 快速链接 */
+.custom-hero__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.custom-hero__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 14px;
+  border-radius: 9999px;
+  border: 1px solid var(--rp-c-divider);
+  font-size: 0.813rem;
+  color: var(--rp-c-text-2);
+  text-decoration: none;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.custom-hero__link:hover {
+  border-color: var(--rp-c-brand);
+  color: var(--rp-c-brand);
+}
+
+.custom-hero__link-arrow {
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+
+.custom-hero__link:hover .custom-hero__link-arrow {
+  transform: translateX(2px);
+}
+
+/* 右侧卡片 */
+.custom-hero__card {
+  background: var(--rp-c-bg-soft);
+  border: 1px solid var(--rp-c-divider);
+  border-radius: 10px;
+  padding: 24px;
+  font-size: 0.813rem;
+  line-height: 1.6;
+}
+
+/* ===== 分类网格 ===== */
+.category-section {
+  max-width: 1200px;
+  margin: 64px auto 80px;
+  padding: 0 24px;
+}
+
+.category-section__header {
+  text-align: left;
+  margin-bottom: 32px;
+}
+
+.category-section__title {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif SC', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--rp-c-text-1);
+  margin: 0 0 4px;
+}
+
+.category-section__desc {
+  font-size: 0.875rem;
+  color: var(--rp-c-text-3);
+  margin: 0;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 1024px) {
+  .category-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
-button.rp-search-button {
-    display: none !important;
+@media (max-width: 768px) {
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--rp-c-divider);
+  background: var(--rp-c-bg-soft);
+  text-decoration: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.category-card:hover {
+  border-color: var(--rp-c-brand);
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.06), 0 1px 2px -1px rgb(0 0 0 / 0.06);
+}
+
+.category-card__title {
+  font-size: 0.938rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--rp-c-text-1);
+  margin: 0;
+}
+
+.category-card__desc {
+  font-size: 0.75rem;
+  color: var(--rp-c-text-3);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.category-card__arrow {
+  align-self: flex-end;
+  color: var(--rp-c-text-3);
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  font-size: 0.75rem;
+}
+
+.category-card:hover .category-card__arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* ===== 页脚 ===== */
+.rp-footer {
+  border-top: 1px solid var(--rp-c-divider-light);
+  font-size: 0.813rem;
+  color: var(--rp-c-text-3);
+  background: transparent !important;
+}
+
+/* ===== 响应式 Hero ===== */
+@media (max-width: 860px) {
+  .custom-hero {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    margin-top: 48px;
+  }
+  .custom-hero__card {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .custom-hero__title {
+    font-size: 2rem;
+  }
+  .custom-hero__sub {
+    font-size: 1.05rem;
+  }
 }

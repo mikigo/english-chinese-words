@@ -1,112 +1,48 @@
 [
   {
-    "text": "人教版",
+    "text": "大学考试",
     "items": [
-      {
-        "text": "人教版小学",
-        "link": "/人教版小学/index",
-        "activeMatch": "/index/"
-      },
-      {
-        "text": "人教版初中",
-        "link": "/人教版初中/index",
-        "activeMatch": "/index/"
-      },
-      {
-        "text": "人教版高中",
-        "link": "/人教版高中/index",
-        "activeMatch": "/index/"
-      }
+      { "text": "四级", "link": "/四级/index" },
+      { "text": "六级", "link": "/六级/index" },
+      { "text": "考研", "link": "/考研/index" },
+      { "text": "专四", "link": "/专四/index" },
+      { "text": "专八", "link": "/专八/index" }
     ]
   },
   {
-    "text": "新东方",
-    "link": "/新东方/index",
-    "activeMatch": "/index/"
+    "text": "出国留学",
+    "items": [
+      { "text": "雅思", "link": "/雅思/index" },
+      { "text": "TOEFL", "link": "/TOEFL/index" },
+      { "text": "GRE", "link": "/GRE/index" },
+      { "text": "GMAT", "link": "/GMAT/index" },
+      { "text": "SAT", "link": "/SAT/index" }
+    ]
   },
   {
-    "text": "外研社版初中",
-    "link": "/外研社版初中/index",
-    "activeMatch": "/index/"
+    "text": "升学考试",
+    "items": [
+      { "text": "中考", "link": "/中考/index" },
+      { "text": "高考", "link": "/高考/index" }
+    ]
   },
   {
-    "text": "初中英语",
-    "link": "/初中英语/index",
-    "activeMatch": "/index/"
+    "text": "教材同步",
+    "items": [
+      { "text": "人教版小学", "link": "/人教版小学/index" },
+      { "text": "人教版初中", "link": "/人教版初中/index" },
+      { "text": "人教版高中", "link": "/人教版高中/index" },
+      { "text": "北师大版高中", "link": "/北师大版高中/index" },
+      { "text": "外研社版初中", "link": "/外研社版初中/index" },
+      { "text": "初中英语", "link": "/初中英语/index" }
+    ]
   },
   {
-    "text": "北师大版高中",
-    "link": "/北师大版高中/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "中考",
-    "link": "/中考/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "高考",
-    "link": "/高考/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "四级",
-    "link": "/四级/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "六级",
-    "link": "/六级/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "专四",
-    "link": "/专四/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "专八",
-    "link": "/专八/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "考研",
-    "link": "/考研/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "GMAT",
-    "link": "/GMAT/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "GRE",
-    "link": "/GRE/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "SAT",
-    "link": "/SAT/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "TOEFL",
-    "link": "/TOEFL/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "商务英语",
-    "link": "/商务英语/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "雅思",
-    "link": "/雅思/index",
-    "activeMatch": "/index/"
-  },
-  {
-    "text": "Ogden`s Basic English",
-    "link": "/ogden_basic_english/index",
-    "activeMatch": "/ogden_basic_english/"
+    "text": "其他",
+    "items": [
+      { "text": "商务英语", "link": "/商务英语/index" },
+      { "text": "新东方", "link": "/新东方/index" },
+      { "text": "Ogden 基础英语", "link": "/ogden_basic_english/index", "activeMatch": "/ogden_basic_english/" }
+    ]
   }
 ]

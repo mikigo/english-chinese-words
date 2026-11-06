@@ -13,15 +13,31 @@ export default defineConfig({
     icon: '/favicon.ico',
     // logo: '/logo.png',
     logoText: 'english-words',
+
     markdown: {
         link: {
             checkDeadLinks: false,
         },
     },
+    route: {
+        cleanUrls: false,
+    },
+
+    // ===== 性能优化 =====
+    builderConfig: {
+        performance: {
+            // split-by-size: 按体积合并小 chunk，减少 HTTP 请求数
+            splitChunks: {
+                strategy: 'split-by-size',
+            },
+        },
+    },
+
     themeConfig: {
         search: false,
-        enableContentAnimation: true,
-        enableAppearanceAnimation: true,
+        // 关闭动画，减少 JS 体积
+        enableContentAnimation: false,
+        enableAppearanceAnimation: false,
         enableScrollToTop: true,
         lastUpdated: true,
         outlineTitle: '本页目录',

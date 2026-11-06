@@ -1,0 +1,64 @@
+---
+pageType: custom
+---
+
+import CustomHero from '../theme/components/CustomHero'
+
+export const HomePage = () => {
+  const categories = [
+    { name: '四级', desc: '大学英语四级词汇', emoji: '🎓' },
+    { name: '六级', desc: '大学英语六级词汇', emoji: '🎓' },
+    { name: '考研', desc: '研究生入学考试词汇', emoji: '📖' },
+    { name: '专四', desc: '英语专业四级词汇', emoji: '📝' },
+    { name: '专八', desc: '英语专业八级词汇', emoji: '📝' },
+    { name: '雅思', desc: 'IELTS 雅思考试词汇', emoji: '🌍' },
+    { name: 'TOEFL', desc: '托福考试词汇', emoji: '🌍' },
+    { name: 'GRE', desc: 'GRE 研究生入学考试', emoji: '🌍' },
+    { name: 'GMAT', desc: 'GMAT 管理类研究生入学', emoji: '🌍' },
+    { name: 'SAT', desc: 'SAT 美国高考词汇', emoji: '🌍' },
+    { name: '中考', desc: '初中毕业升学考试词汇', emoji: '📕' },
+    { name: '高考', desc: '高中毕业升学考试词汇', emoji: '📕' },
+    { name: '人教版小学', desc: '人教版小学英语教材', emoji: '🏫' },
+    { name: '人教版初中', desc: '人教版初中英语教材', emoji: '🏫' },
+    { name: '人教版高中', desc: '人教版高中英语教材', emoji: '🏫' },
+    { name: '北师大版高中', desc: '北师大版高中英语教材', emoji: '🏫' },
+    { name: '外研社版初中', desc: '外研社版初中英语教材', emoji: '🏫' },
+    { name: '初中英语', desc: '初中英语词汇总汇', emoji: '🏫' },
+    { name: '商务英语', desc: '商务英语词汇', emoji: '💼' },
+    { name: '新东方', desc: '新东方全系列词汇', emoji: '📘' },
+    { name: 'ogden_basic_english', desc: 'Ogden 基础英语 850 词', emoji: '🧠' },
+  ]
+
+  return (
+    <>
+      <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
+        <CustomHero
+          name="English Words"
+          text="英语单词列表"
+          tagline="精心制作的免费学单词项目，包含各类英语词库，助你高效学习英语。"
+          categoryCount={categories.length}
+        />
+      </div>
+
+      <section className="category-section">
+        <div className="category-section__header">
+          <h2 className="category-section__title">词库分类</h2>
+          <p className="category-section__desc">共 {categories.length} 个分类，覆盖主流考试与教材</p>
+        </div>
+        <div className="category-grid">
+          {categories.map(cat => (
+            <a key={cat.name} href={`/${cat.name}/`} className="category-card">
+              <span className="category-card__title">{cat.emoji} {cat.name}</span>
+              <span className="category-card__desc">{cat.desc}</span>
+              <span className="category-card__arrow">→</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    </>
+  )
+}
+
+<div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 24px' }}>
+  <HomePage />
+</div>

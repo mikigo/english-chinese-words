@@ -1,11 +1,18 @@
 import json
 import os
+import sys
+
+# 确保可以从任意目录运行
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
+os.chdir(PROJECT_DIR)
+sys.path.insert(0, PROJECT_DIR)
 
 from scripts.groups import GROUPS
 
-new_md_index = [i * 100 for i in range(1, 200)]
+new_md_index = [i * 300 for i in range(1, 200)]
 
-for root, dirs, files in os.walk("../books"):
+for root, dirs, files in os.walk("books"):
     for i in files:
 
         with open(f"{root}/{i}", "r", encoding="utf-8") as f:
@@ -21,15 +28,15 @@ for root, dirs, files in os.walk("../books"):
         if g is None:
             raise ValueError
 
-        if not os.path.exists(f"../docs/{g}"):
-            os.mkdir(f"../docs/{g}")
+        if not os.path.exists(f"docs/{g}"):
+            os.mkdir(f"docs/{g}")
 
         md_name = f"1_{os.path.splitext(i)[0]}.md"
 
         for index, line in enumerate(lines):
             if index + 1 in new_md_index:
                 md_name = f"{index + 1}_{os.path.splitext(i)[0]}.md"
-            md_dir = f"../docs/{g}/{os.path.splitext(i)[0]}"
+            md_dir = f"docs/{g}/{os.path.splitext(i)[0]}"
 
             if not os.path.exists(md_dir):
                 os.mkdir(md_dir)

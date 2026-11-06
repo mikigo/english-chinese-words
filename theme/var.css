@@ -1,12 +1,40 @@
-:root {
-  --rp-c-brand: #00AA55; /* hsl(150deg 100% 33%) */
-  --rp-c-brand-dark: #009048; /* hsl(150deg 100% 28%) */
-  --rp-c-brand-darker: #00773b; /* hsl(150deg 100% 23%) */
-  --rp-c-brand-light: #00dd6e; /* hsl(150deg 100% 43%) */
-  --rp-c-brand-lighter: #11ff88; /* hsl(150deg 100% 53%) */
-  --rp-c-brand-tint: rgba(0, 170, 85, 0.15);
+/* ===== 纸本色 — 参考 lixiaolai.com 配色 ===== */
 
-  --rp-home-hero-secondary-color: #009048;
+/* 纸色背景（Light 模式） */
+:where(html:not(.rp-dark)) {
+  --rp-c-bg: oklch(0.985 0.001 250);
+  --rp-c-bg-soft: oklch(0.965 0.002 250);
+  --rp-c-bg-mute: oklch(0.94 0.003 250);
+  --rp-c-bg-alt: oklch(0.985 0.001 250);
+
+  --rp-c-divider: oklch(0.84 0.004 250);
+  --rp-c-divider-light: oklch(0.90 0.003 250);
+
+  --rp-c-text-1: oklch(0.22 0.005 250);
+  --rp-c-text-2: oklch(0.40 0.005 250);
+  --rp-c-text-3: oklch(0.58 0.005 250);
+}
+
+/* 纸色背景（Dark 模式） */
+:where(html.rp-dark) {
+  --rp-c-bg: oklch(0.16 0.008 250);
+  --rp-c-bg-soft: oklch(0.21 0.009 250);
+  --rp-c-bg-mute: oklch(0.26 0.008 250);
+  --rp-c-bg-alt: oklch(0.16 0.008 250);
+
+  --rp-c-divider: oklch(0.34 0.008 250);
+  --rp-c-divider-light: oklch(0.28 0.008 250);
+}
+
+:root {
+  --rp-c-brand: #030303;
+  --rp-c-brand-dark: #030303;
+  --rp-c-brand-darker: #030303;
+  --rp-c-brand-light: #030303;
+  --rp-c-brand-lighter: #030303;
+  --rp-c-brand-tint: rgba(0, 0, 0, 0.06);
+
+  --rp-home-hero-secondary-color: #030303;
 
   --shiki-foreground: #e1e4e8;
   --shiki-background: #24292e;
@@ -22,21 +50,22 @@
 }
 
 .medium-zoom-image,
-video {
-  margin-left: atuo;
+video,
+.rp-home-hero__image-img,
+.rp-home-hero__image-img--light {
+  margin-left: auto;
   margin-right: auto;
-  box-shadow: 0 2px 6px #262726 !important;
+  border-radius: 6px !important;
 }
 
 .rp-nav-menu__item__container {
   font-weight: bold !important;
 }
 
-h1{
-  font-size: 2.5rem !important;
-  text-shadow: 0 0.5px 2px #262726;
+.rp-nav__title__link {
+  font-size: 2rem !important;
 }
 
-.rp-home-hero__subtitle {
-  text-shadow: 0 0.5px 2px #262726 !important;
+h1 {
+  font-size: 2.5rem !important;
 }

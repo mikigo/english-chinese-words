@@ -3108,3 +3108,6221 @@
 :::
 
 
+## 2200. morgue
+
+**停尸房， 太平间**
+
+:::note{title=🎤例句}
+
+- Police came and took her gently aside and told her they would try to find the name of the morgue. （警察温和地把她拉到了一边，告诉她他们会尽力寻找存放孩子遗体的太平间的名字。）
+
+- "They just drink tea inside, they just throw the bodies on the floor with some ice, " he said of officials in the morgue. （谈到太平间的官员，他说：“那些人只是在里面喝喝茶，把尸体和冰块扔到地上就不管了。”）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- data room （[医]陈尸所；资料室，资料档案）
+
+:::
+
+
+## 2201. unprecedented
+
+**空前的**
+
+:::tip{title=🤩短语}
+
+- unprecedented scale （史无前例的规模）
+
+:::
+
+:::note{title=🎤例句}
+
+- He took the unprecedented step of stating that the rumours were false. （他史无前例地声明那些谣言实属子虚乌有。）
+
+- Crime has increased on an unprecedented scale. （犯罪率增幅之大前所未有。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- unheard-of, all-time （空前的；无前例的）
+
+:::
+
+
+## 2202. pocketbook
+
+**钱袋， 皮夹； 财政状况， 财力**
+
+:::note{title=🎤例句}
+
+- The aim was to provide a car for every age and pocketbook . （目标是为每个年龄层和收入层的人士提供汽车。）
+
+- Older voters are most concerned about pocketbook issues (= that concern money ) . （年纪较大的选民最关心钱的问题。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- bag, wallet （钱包；笔记本；经济来源；皮夹）
+
+:::
+
+
+## 2203. charcoal
+
+**木炭**
+
+:::tip{title=🤩短语}
+
+- activated charcoal （活性炭）
+
+- charcoal powder （木炭粉）
+
+- wood charcoal （木炭）
+
+- charcoal drawing （素描）
+
+:::
+
+:::note{title=🎤例句}
+
+- cooking over a charcoal fire （在炭火上做饭）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- xylanthrax, wood coal （[木]木炭（过去式charcoaled，过去分词charcoaled，现在分词charcoaling，第三人称单数charcoals）；炭笔）
+
+:::
+
+
+## 2204. disguise
+
+**掩饰； 伪装， 假装**
+
+:::tip{title=🤩短语}
+
+- in disguise （伪装；乔装）
+
+- a blessing in disguise （塞翁失马）
+
+- in the disguise of （伪装，假扮成；托辞；以……为借口）
+
+:::
+
+:::note{title=🎤例句}
+
+- He escaped across the border disguised as a priest. （他装扮成神父越境逃走了。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- simulate, come （掩饰；假装；隐瞒）
+
+- simulation, acting （伪装；假装；用作伪装的东西）
+
+:::
+
+
+## 2205. imperial
+
+**帝国的， 帝王的； 至尊的； 专横的**
+
+:::tip{title=🤩短语}
+
+- imperial palace （n. 宫城；皇城）
+
+- imperial examinations （科举）
+
+- imperial college （（英）帝国理工学院）
+
+- imperial garden （御花园）
+
+- imperial concubine （皇妃）
+
+- imperial college london （（伦敦大学）帝国理工学院）
+
+- imperial academy （国子监（建于1873年）；帝国学院）
+
+- imperial system （英制）
+
+:::
+
+:::note{title=🎤例句}
+
+- Britain’s imperial expansion in the 19th century （19世纪英帝国的扩张）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- august, sovereign （[纸]帝国的；皇帝的；至高无上的；威严的）
+
+:::
+
+
+## 2206. wrap
+
+**包，裹**
+
+**披肩， 围巾； 包装材料**
+
+:::tip{title=🤩短语}
+
+- wrap up （伪装；使全神贯注；穿暖和的衣服）
+
+- under wraps （不公开的；秘密的）
+
+- wrap around （adj. 卷绕的，环绕的）
+
+- plastic wrap （塑料包裹膜）
+
+- gift wrap （n. 缎带做的包装）
+
+- bubble wrap （气泡膜外包装材料）
+
+- wrap angle （包角）
+
+- word wrap （自动换行）
+
+- shrink wrap （收缩包裹；热缩塑料包）
+
+:::
+
+:::note{title=🎤例句}
+
+- I’ve still got a few Christmas presents to wrap up. （我还有一些圣诞礼物要包起来。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- wind, lock （包；缠绕；隐藏；掩护）
+
+- wind （包起来；缠绕；穿外衣）
+
+- outerwear, outer coat （外套；围巾）
+
+:::
+
+
+## 2207. prehistoric
+
+**史前的； 陈旧的**
+
+:::note{title=🎤例句}
+
+- prehistoric burial grounds （史前墓地）
+
+- prehistoric animals （史前动物）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- old, ogygian （史前的；陈旧的）
+
+:::
+
+
+## 2208. facet
+
+**小平面； 方面**
+
+:::note{title=🎤例句}
+
+- The issues are complex and multi-faceted. （这些问题很复杂，涉及诸多方面。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- aspect, side, respect （面；方面；小平面）
+
+:::
+
+
+## 2209. novel
+
+**新颖的**
+
+**小说**
+
+:::tip{title=🤩短语}
+
+- historical novel （历史小说）
+
+- gothic novel （哥特小说；哥特式小说）
+
+- river novel （长篇小说）
+
+- saga novel （长篇小说；家世小说）
+
+- full-length novel （长篇小说；足本小说，未经删节的小说）
+
+:::
+
+:::note{title=🎤例句}
+
+- Protesters found a novel way of demonstrating against steeply rising oil prices. （抗议者们找到一种新奇的示威方式来反对石油价格的飙升。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- patent, exquisite （新奇的；异常的）
+
+- story, fiction （小说）
+
+:::
+
+
+## 2210. tedium
+
+**单调， 乏味**
+
+:::note{title=🎤例句}
+
+- We sang while we worked, to relieve the tedium . （我们边唱歌边干活来排遣无聊。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- heavy-footedness, oppression （沉闷；单调乏味；厌烦）
+
+:::
+
+
+## 2211. liberal
+
+**自由的， 开明的； 慷慨的； 不严格的； 人文的**
+
+:::tip{title=🤩短语}
+
+- liberal education （普通教育；文科教育）
+
+- liberal party （n. 自由党）
+
+- liberal democratic party （n. 自由民主党）
+
+- liberal democracy （自由民主；自由民主主义；自由民主制（一种政府形式，由人民选出的民意代表行使决策权力））
+
+- liberal art （文科）
+
+- liberal arts education （博雅教育）
+
+- liberal economy （自由经济）
+
+- liberal democrat （自由民主党（成员）；自民党人）
+
+- college of liberal arts （文学院；人文学院）
+
+- liberal studies （人文学科）
+
+- liberal translation （n. 意译法）
+
+- liberal arts college （文理学院；文科大学）
+
+:::
+
+:::note{title=🎤例句}
+
+- a more liberal attitude towards sexuality （对两性关系比较开通的态度）
+
+- I had quite liberal parents. （我的父母思想很开明。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- generous, handsome （自由主义的；慷慨的；不拘泥的；宽大的）
+
+- latitudinarian （自由主义者）
+
+:::
+
+
+## 2212. standard
+
+**标准的**
+
+**标准，准则**
+
+:::tip{title=🤩短语}
+
+- quality standard （质量标准）
+
+- national standard （国家标准）
+
+- living standard （生活水平，生活标准）
+
+- international standard （国际标准）
+
+- standard of living （生活水平；生活标准）
+
+- standard deviation （标准偏差）
+
+- up to standard （达到标准；合乎标准）
+
+- industry standard （产业标准）
+
+- technical standard （技术标准）
+
+- standard method （标准方法；标准措施）
+
+- relative standard （相对标准；相关标准）
+
+- discharge standard （排放标准）
+
+- double standard （双重标准）
+
+- standard solution （[化]标准溶液）
+
+- accounting standard （会计准则）
+
+- gold standard （金本位，金本位制）
+
+- standard parts （标准零件）
+
+- internal standard （[物化]内标准；内部标准）
+
+- standard sample （标准样品）
+
+- raise the standard （◎举兵）
+
+:::
+
+:::note{title=🎤例句}
+
+- We paid them the standard rate. （我们付给他们标准工资。）
+
+- The format is fairly standard. （这个格式是比较标准的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- criterion, norms, level, prototype, Canon （[标准]标准；水准；旗；度量衡标准）
+
+- normal, par （[标准]标准的；合规格的；公认为优秀的）
+
+:::
+
+
+## 2213. harmony
+
+**和声； 和谐， 融洽， 协调； 相符， 一致**
+
+:::tip{title=🤩短语}
+
+- in harmony （adj. 和谐无间）
+
+- social harmony （社会和谐）
+
+- in harmony with （与…协调；与…一致）
+
+- perfect harmony （水乳交融；完美无谐波；十分和谐）
+
+- live in harmony （和睦相处，和谐共处）
+
+- new harmony （新和谐）
+
+:::
+
+:::note{title=🎤例句}
+
+- the gorgeous vocal harmonies on ‘Mexicali Rose’ （《墨西哥玫瑰》的精彩和声演唱）
+
+- three-part harmonies （三部和声）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- peace, keeping （协调；和睦；融洽；调和）
+
+:::
+
+
+## 2214. genial
+
+**亲切的， 和蔼的； 温和的， 温暖的**
+
+:::note{title=🎤例句}
+
+- a genial smile （亲切的微笑）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- friendly, nice, sweet, kind, well （亲切的，友好的；和蔼的；适宜的）
+
+:::
+
+
+## 2215. epitome
+
+**摘要， 梗概； 典型， 典范**
+
+:::note{title=🎤例句}
+
+- Maureen was the epitome of sophistication. （莫琳曾是老于世故的典型。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- symbol, abstract, brief, summary, significant （缩影；[图情]摘要；象征）
+
+:::
+
+
+## 2216. sharply
+
+**急剧地； 猛烈地； 尖刻地； 鲜明地**
+
+:::warning{title=🤔同义词}
+
+- keenly, trenchantly （急剧地；锐利地）
+
+:::
+
+
+## 2217. afoul
+
+**相抵触， 有冲突**
+
+:::tip{title=🤩短语}
+
+- afoul of （碰撞，同某物撞在一起；和某人发生冲突）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- tangled, matted （纠缠的，冲撞的）
+
+:::
+
+
+## 2218. chill
+
+**寒冷的**
+
+**变冷， 冷却**
+
+**寒冷，寒意**
+
+:::tip{title=🤩短语}
+
+- chill out （冷静，冷静下来）
+
+- wind chill （风寒）
+
+:::
+
+:::note{title=🎤例句}
+
+- the chill night air （夜里寒冷的空气）
+
+- a chill wind （寒风）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- cold, algor （寒冷；寒意；寒心）
+
+- cold, distant （寒冷的；冷漠的；扫兴的）
+
+- refrigerate （冷冻，冷藏；使寒心；使感到冷）
+
+:::
+
+
+## 2219. dominate
+
+**支配， 统治； 控制； 盛行**
+
+:::tip{title=🤩短语}
+
+- dominate the market （欺行霸市）
+
+:::
+
+:::note{title=🎤例句}
+
+- The industry is dominated by five multinational companies. （这个行业受五家跨国公司控制。）
+
+- New Orleans dominated throughout the game. （新奥尔良队自始至终都控制着这场比赛。）
+
+- Her loud voice totally dominated the conversation. （她的大嗓门完全主导着这场谈话。）
+
+- Education issues dominated the election campaign. （教育问题成了这次选举活动的主要辩题。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- possess, contain, regulate, bit, bottle （控制；支配；占优势；在…中占主要地位）
+
+- advantage over, prevail over （占优势；处于支配地位）
+
+:::
+
+
+## 2220. imitate
+
+**模仿， 效仿； 仿制， 仿造**
+
+:::note{title=🎤例句}
+
+- She was a splendid mimic and loved to imitate Winston Churchill. （她是个出色的模仿者，喜欢模仿温斯顿·丘吉尔。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- simulate, model after （模仿，仿效；仿造，仿制）
+
+:::
+
+
+## 2221. compute
+
+**计算， 估算**
+
+:::tip{title=🤩短语}
+
+- beyond compute （不可计量，无法计算；难以估计）
+
+:::
+
+:::note{title=🎤例句}
+
+- Final results had not yet been computed. （最终的结果还未计算出来。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- cast, figure （[数]计算；估算；用计算机计算）
+
+- figure, cast （[数]计算；估算；推断）
+
+- calculation, estimation, appraisal, valuation, count （[数]计算；估计；推断）
+
+:::
+
+
+## 2222. pastel
+
+**彩色蜡笔的；柔和的**
+
+**彩色蜡笔**
+
+:::note{title=🎤例句}
+
+- pastel blue （淡蓝色）
+
+- The walls were painted in pastel shades. （墙壁被粉刷成了柔和的色彩。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- female, delicate （柔和的；彩色蜡笔的，粉蜡笔的）
+
+:::
+
+
+## 2223. homestead
+
+**家宅， 农庄； 宅地**
+
+:::tip{title=🤩短语}
+
+- homestead act （（美）宅地法）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- curtilage, toft （宅地；家园；田产）
+
+:::
+
+
+## 2224. middleman
+
+**中间人， 调解人； 经纪人**
+
+:::note{title=🎤例句}
+
+- He acts as a middleman for British companies seeking contracts in the Gulf. （他给在海湾地区寻找商机的英国公司当中间人。）
+
+- Buy direct from the manufacturer and cut out the middleman (= avoid using a middleman ) . （从厂家直接进货，绕开中间商。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- intermediary, Tweener （中间人；经纪人；调解人）
+
+:::
+
+
+## 2225. exceed
+
+**超过， 超出**
+
+:::tip{title=🤩短语}
+
+- exceed in （在…方面超过）
+
+:::
+
+:::note{title=🎤例句}
+
+- Working hours must not exceed 42 hours a week. （工作时间每周不得超过42小时。）
+
+- His performance exceeded our expectations. （他的表现出乎我们的预料。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- better than, overcome, top, cap, outdo （超过；胜过）
+
+:::
+
+
+## 2226. avert
+
+**避免， 规避； 转移**
+
+:::note{title=🎤例句}
+
+- The tragedy could have been averted if the crew had followed safety procedures. （如果乘务人员按照安全规则操作，这场悲剧是可以避免的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- escape, shift, shun （避免，防止；转移）
+
+:::
+
+
+## 2227. conversation
+
+**交谈， 会话**
+
+:::tip{title=🤩短语}
+
+- in conversation （在谈话；交谈中）
+
+- english conversation （英语会话；英文会话）
+
+- telephone conversation （打电话）
+
+- man-machine conversation （人机对话）
+
+- private conversation （私人通话）
+
+- make conversation （交谈；闲聊；找话谈）
+
+- in conversation with （和……谈话）
+
+- make a conversation （会话）
+
+- conversation with god （与神对话（影片名称））
+
+:::
+
+:::note{title=🎤例句}
+
+- a telephone conversation （电话交谈）
+
+- Children quickly get bored by adult conversation. （儿童对成年人的谈话很快就会厌倦。）
+
+- They had a short conversation in German and seemed to be disagreeing about something. （他们用德语说了一会儿，好像对什么事有分歧。）
+
+- It’s impossible to carry on a conversation with all this noise in the background. （在这么喧闹的环境中进行谈话是不可能的。）
+
+- ‘Did you have a good journey?’ he said, trying to make conversation . （“你旅途愉快吗？”他问道，试图找话谈。）
+
+- He was silent, no matter how hard Sofia tried to engage him in conversation . （无论索菲娅怎么引他说话，他就是一声不吭。）
+
+- After a while, the conversation turned to a friend’s coming wedding. （过了一会儿，话题就转到一个朋友即将举行的婚礼上去了。）
+
+- They were deep in conversation , relaxed and smiling. （他们谈得很投入，很放松，脸上带着微笑。）
+
+- He could hear snatches of conversation from across the room. （他从房间对面听得到零星的对话。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- congress, dialog （交谈；会话；社交）
+
+:::
+
+
+## 2228. monarchy
+
+**君主制； 君主国**
+
+:::tip{title=🤩短语}
+
+- constitutional monarchy （[法]君主立宪制度）
+
+- absolute monarchy （专制君主国；君主专制政体）
+
+:::
+
+:::note{title=🎤例句}
+
+- the abolition of the monarchy （君主制的废除）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- Caesarism （君主政体；君主国；君主政治）
+
+:::
+
+
+## 2229. manifestation
+
+**显示，表明；**
+
+:::tip{title=🤩短语}
+
+- clinical manifestation （临床表现）
+
+:::
+
+:::note{title=🎤例句}
+
+- Different animals in the colony had different manifestations of the disease. （同一群体的不同动物对同一疾病有不同的表现形式。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- exhibition, representation, display, show （表现；显示；示威运动）
+
+:::
+
+
+## 2230. vicious
+
+**危险的， 罪恶的； 残酷的， 凶残的； 恶性的**
+
+:::tip{title=🤩短语}
+
+- vicious circle （恶性循环；循环论证法）
+
+- vicious cycle （恶性循环）
+
+- vicious spiral （n. 恶性螺旋形上升；[经]恶性通货膨胀螺旋）
+
+:::
+
+:::note{title=🎤例句}
+
+- a vicious murder （一桩凶残的谋杀案）
+
+- a vicious killer （凶狠的杀手）
+
+- Keep away from that dog, he can be vicious. （离那只狗远点，它有时很凶猛。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- severe, fallen, malicious, poisonous （恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的）
+
+:::
+
+
+## 2231. lace
+
+**用带子束紧**
+
+**蕾丝；缎带；鞋带，系带**
+
+:::tip{title=🤩短语}
+
+- lace up （用带子束紧）
+
+- shoe lace （鞋带）
+
+:::
+
+:::note{title=🎤例句}
+
+- Lace up your shoes or you’ll trip over. （把鞋带系好，否则你会绊倒的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- tie, gymp （[纺]花边；鞋带；饰带；少量烈酒）
+
+:::
+
+
+## 2232. invitation
+
+**邀请； 请柬； 吸引， 诱惑**
+
+:::tip{title=🤩短语}
+
+- invitation letter （邀请函）
+
+- invitation card （请帖；招待券）
+
+- by invitation （凭请柬）
+
+- invitation to bid （[经]招标；投标邀请书）
+
+- formal invitation （正式请柬；正式邀请函）
+
+- invitation for bid （招标）
+
+- invitation to tender （招标）
+
+:::
+
+:::note{title=🎤例句}
+
+- They were always dropping by, usually without invitation. （他们常常来串门，通常不请自来。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- calling, temptation （邀请；引诱）
+
+:::
+
+
+## 2233. lithosphere
+
+**岩石圈**
+
+:::note{title=🎤例句}
+
+- Earthquakes along benioff zones are distributed in the descending lithosphere slabs. （贝尼奥夫带的地震都分布在下降岩石圈板块内。）
+
+- Notice first that there could be a substantial difference between lithosphere thickness and plate thickness. （首先要注意：岩石圈厚度和板块厚度之间可能有重要区别。）
+
+- We found large scale mantle convection enhances the collision process greatly, and the mantle drag force beneath Indian lithosphere may be the dominant force in this process. （大尺度地幔对流作用下地幔对岩石圈底部的拖曳作用可能在该区域的整个地球力学过程中起了主导作用。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- geosphere （陆界，[地质][地物][天]岩石圈）
+
+:::
+
+
+## 2234. enormous
+
+**巨大的， 极大的**
+
+:::note{title=🎤例句}
+
+- an enormous bunch of flowers （巨大的花束）
+
+- an enormous amount of money （巨款）
+
+- The team made an enormous effort. （该队付出了巨大的努力。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- huge, tremendous, massive, macro, vast （庞大的，巨大的；凶暴的，极恶的）
+
+:::
+
+
+## 2235. revival
+
+**复兴， 再流行； 复苏； 苏醒， 复活； 重演**
+
+:::tip{title=🤩短语}
+
+- revival of learning （n. 文艺复兴（Revival of Letters或Revival of Literature））
+
+:::
+
+:::note{title=🎤例句}
+
+- The US and the UK have expectations of economic revival. （美国和英国对经济复苏有所期待。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- reconstruction, renaissance, renewal, resurrection （复兴；复活；苏醒；恢复精神；再生效）
+
+:::
+
+
+## 2236. moisture
+
+**潮湿， 湿气**
+
+:::tip{title=🤩短语}
+
+- moisture content （水分含量；含湿量）
+
+- soil moisture （土壤水分；土壤湿度）
+
+- moisture absorption （吸湿性；水分吸收）
+
+- soil moisture content （土壤含水量）
+
+- moisture regain （吸湿（性）；回潮率；回潮）
+
+- moisture permeability （透湿性；透水汽性）
+
+- moisture resistance （防潮性；抗湿性）
+
+- moisture proof （防潮）
+
+- moisture control （湿度控制）
+
+- moisture barrier （防潮层）
+
+- moisture meter （湿度计；湿度测量计；湿度表）
+
+- moisture migration （水分移动）
+
+- initial moisture content （原始含水量）
+
+- moisture movement （水分移动）
+
+- equilibrium moisture content （平衡含水率；平衡湿量）
+
+- moisture removal （除湿量，除去水分）
+
+- free moisture （游离水分；自由湿气）
+
+- moisture capacity （湿度）
+
+- total moisture （总水分）
+
+- moisture sensor （湿敏元件；湿敏组件）
+
+:::
+
+:::note{title=🎤例句}
+
+- Plants use their roots to absorb moisture from the soil. （植物利用根从土壤中吸收水分。）
+
+- Your skin’s moisture content varies according to weather conditions. （皮肤的水分含量随着天气状况而变化。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- rainfall, humidity content （水分；湿度；[气象][物]潮湿；降雨量）
+
+:::
+
+
+## 2237. sloth
+
+**树懒； 懒散， 怠惰**
+
+:::note{title=🎤例句}
+
+- He admitted a lack of motivation and a feeling of sloth. （他承认自己缺乏动力，感觉懒散。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- laziness, idleness （怠惰，懒惰；[脊椎]树懒）
+
+:::
+
+
+## 2238. lack
+
+**缺乏， 不足**
+
+:::tip{title=🤩短语}
+
+- lack of （没有，缺乏；不足，不够）
+
+- for lack of （因缺乏…；因缺少…；因没有…）
+
+- lack in （缺少…；在…缺乏）
+
+- lack of power （乏力；缺乏动力）
+
+- by lack of （因没有...；因缺乏...）
+
+- from lack of （因没有...；因缺乏...）
+
+- lack of money （缺钱）
+
+- lack of time （缺乏时间）
+
+- lack of capital （缺乏资金）
+
+- lack for （缺乏）
+
+- through lack of （因缺乏）
+
+- lack of faith （不信教，不信神）
+
+- lack of fusion （未熔合；未焊透；熔解不足）
+
+- lack of penetration （未焊透）
+
+- lack of rainfall （缺雨，少雨）
+
+- lack of labor （劳动力缺乏）
+
+:::
+
+:::note{title=🎤例句}
+
+- Too many teachers are treated with a lack of respect. （有太多老师得不到尊重。）
+
+- comments based on a total lack of information （全无根据的评论）
+
+- Does their apparent lack of progress mean they are not doing their job properly? （他们看来没有什么进展，是不是说明他们没有做好本职工作？）
+
+- tours that are cancelled for lack of bookings （因预订人数不够而取消的旅游）
+
+- There was no lack of willing helpers. （主动提出帮助的不乏其人。）
+
+- health problems linked to poor diet and a relative lack of exercise （与不良饮食和运动相对缺乏相关的健康问题）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- ask, claim （缺乏；不足；没有；需要）
+
+- fail, low in （缺乏；不足；没有）
+
+- shortage, short of, deficiency, need, drought （缺乏；不足）
+
+:::
+
+
+## 2239. external
+
+**外部的， 外面的； 外来的； 对外的**
+
+:::tip{title=🤩短语}
+
+- external environment （外环境）
+
+- external force （外力）
+
+- external wall （外墙；外堤）
+
+- external economy （外部经济）
+
+- external pressure （外部压力）
+
+- external condition （外在环境，外界条件）
+
+- external appearance （外观；外形）
+
+- external world （外在世界）
+
+- for external use （外用；外用的；外用药）
+
+- external application （外用）
+
+- external magnetic field （外部磁场，外磁场）
+
+- external trade （对外贸易）
+
+- external factor （外在因素，外因；外来因素）
+
+- external power （外功率，外电源）
+
+- external surface （外表面）
+
+- external disturbance （外扰，外部干扰）
+
+- external form （外形）
+
+- external insulation （外绝缘）
+
+- external debt （外债）
+
+- external cause （外因）
+
+:::
+
+:::note{title=🎤例句}
+
+- the external appearance of the building （大楼的外观）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- foreign, outer, outside, surface, out （[药][动]外部的；表面的；外用的；外国的；外面的）
+
+- outside, without, surface, face, garment （外部；外观；外面）
+
+:::
+
+
+## 2240. circumstance
+
+**环境， 条件； 境况， 经济状况**
+
+:::tip{title=🤩短语}
+
+- in the circumstances （在这种情况下；既然这样）
+
+- under the circumstance （在这种情况下）
+
+- in no circumstances （决不）
+
+- under no circumstance （在任何情况下都不）
+
+- under certain circumstance （adv. 在某种情况下）
+
+:::
+
+:::note{title=🎤例句}
+
+- people living in difficult social circumstances （在艰难的社会环境里生活的人们）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- context, situation, setting, event, occurrence, thing, scene （环境，情况；事件；境遇）
+
+:::
+
+
+## 2241. revise
+
+**修订， 修改； 复习**
+
+:::tip{title=🤩短语}
+
+- revise for （v. 复习功课（迎考））
+
+:::
+
+:::note{title=🎤例句}
+
+- The college has revised its plans because of local objections. （由于地方上的反对，学院已经修改了计划。）
+
+- We have revised our estimates of population growth. （我们已修正了对人口增长的估计。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- update, edit （修正；复习；[印刷]校订）
+
+- to amend （[图情]修订；[印刷]校订；复习功课）
+
+- recension, emendation （[图情]修订；[印刷]校订）
+
+:::
+
+
+## 2242. authority
+
+**权力，管辖权；**
+
+:::tip{title=🤩短语}
+
+- competent authority （[法]主管当局，主管部门）
+
+- authority on （有关…的权威；…的专家）
+
+- local authority （地方当局；地方政权）
+
+- administrative authority （行政当局）
+
+- tax authority （税务机关）
+
+- public authority （公共机关；政府当局）
+
+- in authority （有权；持有权力的地位）
+
+- judicial authority （司法机关）
+
+- legal authority （法定权威）
+
+- central authority （中央集权）
+
+- monetary authority （货币当局；金融管理专员）
+
+- port authority （港务局）
+
+- approval authority （批准机关；核准权）
+
+- regulatory authority （管理机构；制定规章的机构；执行机构）
+
+- aviation authority （民航当局）
+
+- have authority （管理；有管辖权）
+
+- limits of authority （税收管理权和权限，权限）
+
+- by the authority of （以…的权力；得到…许可）
+
+- certificate authority （凭证管理中心；认证授权）
+
+- authority control （权限控制；权威控制）
+
+:::
+
+:::note{title=🎤例句}
+
+- an agreement between the US and Colombian authorities （美国和哥伦比亚当局的一份协议）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- rod, jurisdiction （权威；[法]权力；当局）
+
+:::
+
+
+## 2243. paramount
+
+**至为重要的； 最高权力的， 至尊的**
+
+:::tip{title=🤩短语}
+
+- of paramount importance （最重要的）
+
+- paramount pictures （派拉蒙电影公司）
+
+:::
+
+:::note{title=🎤例句}
+
+- During a war the interests of the state are paramount, and those of the individual come last. （战争时期国家利益是首要的，个人利益置于最后。）
+
+- Women’s role as mothers is of paramount importance to society. （女性作为母亲的角色对社会至关重要。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- primary, main, major, central, great （最重要的，主要的；至高无上的）
+
+- monarch, imperator （最高统治者）
+
+:::
+
+
+## 2244. emerald
+
+**祖母绿， 绿宝石； 翡翠绿**
+
+:::tip{title=🤩短语}
+
+- emerald green （鲜绿色）
+
+:::
+
+:::note{title=🎤例句}
+
+- She told the artist, Paint me with diamond earrings, a diamond necklace, emerald bracelets and a ruby pendant. （她告诉那位肖像画家说：“画我带着钻石耳环、钻石项链、祖母绿手镯，还有红宝石垂饰。”）
+
+- In terms of colour, black, red and jewel tones like sapphire blue and emerald GREen are in, while pumpkins and yellows are out, Ms Stanger said. （至于衣服的颜色，斯坦格说，黑色、红色以及宝蓝、祖母绿这样的宝石色调比较时髦，而南瓜色和黄色则显得老土。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- jade, beryl （绿宝石，翡翠；[宝]祖母绿；翠绿色）
+
+- virid （翡翠的；翠绿色的）
+
+:::
+
+
+## 2245. legislature
+
+**立法机关， 立法团体**
+
+:::note{title=🎤例句}
+
+- The proposals before the legislature include the creation of two special courts to deal exclusively with violent crimes. （摆在议会面前的提案包括建立两个特殊法庭专门审理暴力犯罪案件。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- legislative body （立法机关；立法机构）
+
+:::
+
+
+## 2246. sociable
+
+**好交际的， 合群的； 友善的， 友好的**
+
+:::note{title=🎤例句}
+
+- She was, and remained, extremely sociable, enjoying dancing, golf, tennis, skating, and bicycling. （她以前是，现在依然是极其好交际，喜欢跳舞、打高尔夫、打网球、滑冰和骑自行车。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- gregarious, amicable （社交的；好交际的；友善的）
+
+- social gathering, sodality （联谊会）
+
+:::
+
+
+## 2247. exhilarating
+
+**令人高兴的， 使人兴奋的**
+
+:::note{title=🎤例句}
+
+- an exhilarating experience （刺激的经历）
+
+- an exhilarating walk （让人精神焕发的散步）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- snappy （使人愉快的；令人喜欢的；爽快的）
+
+- gratifying （使高兴，使兴奋（exhilarate的现在分词形式））
+
+:::
+
+
+## 2248. Saturn
+
+**土星**
+
+:::note{title=🎤例句}
+
+- Saturn is my surroundings. （土星是我的环境。）
+
+- Jupiter, Saturn, Uranus and Neptune. Those are the gas giants, the four heavyweights of the solar system. But was there once a fifth? （木星，土星，天王星和海王星。这些都是气体行星，太阳系的四个重量级。但曾经存在第五个行星吗？）
+
+- Remember earlier when we talked about Saturn and how he teaches us about karma, cause and effect, and "tough love" style life lessons. （记得早些时候曾当我们谈到土星，以及他如何讲授业，原因和影响我们，“严厉的爱”式的生活经验。）
+
+:::
+
+## 2249. avenge
+
+**复仇， 报仇； 向…报仇**
+
+:::note{title=🎤例句}
+
+- He wanted to avenge his brother’s death. （他要为弟弟的死复仇。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- revenge （替…报仇）
+
+- get back on, get even with （报复，报仇）
+
+:::
+
+
+## 2250. obsolete
+
+**过时的； 废弃的**
+
+:::tip{title=🤩短语}
+
+- obsolete equipment （陈旧设备）
+
+:::
+
+:::note{title=🎤例句}
+
+- obsolete weapons （已被淘汰的武器）
+
+- computer hardware that quickly became obsolete （很快就变得过时的电脑硬件）
+
+- Will computers render (= make ) books obsolete? （计算机会把书籍淘汰掉吗？）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- waste, dumped （[生物]废弃的；老式的）
+
+- fall into disuse, wash out （淘汰；废弃）
+
+:::
+
+
+## 2251. instrument
+
+**仪器， 器械， 工具； 乐器**
+
+:::tip{title=🤩短语}
+
+- measuring instrument （[化]测量仪表）
+
+- musical instrument （乐器）
+
+- test instrument （试验仪器；测量设备）
+
+- testing instrument （试验仪器）
+
+- precision instrument （[计][经]精密仪器）
+
+- intelligent instrument （智能仪器）
+
+- instrument panel （仪表板；仪表操纵板）
+
+- financial instrument （金融工具；金融票据）
+
+- instrument system （仪表系统）
+
+- optical instrument （光学仪器）
+
+- monitoring instrument （调节仪表；控制仪表）
+
+- electronic instrument （电子仪器，电子测试仪器）
+
+- stringed instrument （弦乐器）
+
+- scientific instrument （科学仪表）
+
+- wind instrument （管乐器，吹奏乐器）
+
+- detecting instrument （检测仪器；检测元件；检波器）
+
+- logging instrument （测井仪）
+
+- percussion instrument （打击乐器）
+
+- instrument analysis （仪器分析）
+
+- experimental instrument （实验仪器）
+
+:::
+
+:::note{title=🎤例句}
+
+- surgical instruments （外科(手术)器械）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- facilities, vehicle, engine, tool, implement （[仪]仪器；[机]工具；乐器；手段；器械）
+
+:::
+
+
+## 2252. medium
+
+**〔大小、水平或数量〕中等的；中号的**
+
+**传播媒介〔如报纸、电视等〕**
+
+**灵媒，巫师，通灵的人**
+
+:::tip{title=🤩短语}
+
+- medium sized （adj. 中等大小的）
+
+- culture medium （培养基（培养微生物的养料））
+
+- medium size （中号，中码；中号尺码）
+
+- porous medium （多孔介质；疏松介质）
+
+- medium plate （中板；中厚钢板）
+
+- medium term （（未来数星期或数月的）中期）
+
+- medium frequency （中频（略作MF，mf））
+
+- medium temperature （介质温度，中间温度）
+
+- medium pressure （中压；中等压力）
+
+- happy medium （折衷办法）
+
+- working medium （工作介质；使用介质）
+
+- liquid medium （液体；液体介质）
+
+- medium scale （平均比例尺；中等规模（的）；中间尺度）
+
+- medium voltage （中压）
+
+- transmission medium （传送介质）
+
+- storage medium （存储介质；[计]存储媒体）
+
+- medium speed （中速）
+
+- cooling medium （冷却介质）
+
+- filter medium （滤介质；滤材；滤器填料）
+
+- medium model （中模式）
+
+:::
+
+:::note{title=🎤例句}
+
+- What size shirt does he wear – small, medium or large? （他穿多大尺码的衬衫——小号、中号还是大号？）
+
+- hair of medium length （中等长短的头发）
+
+- Fry the onions over a medium heat until they are golden. （用中火把洋葱炸到金黄色。）
+
+- Bruce Willis says he has been talking to his dead brother through a medium. （布鲁斯·威利斯说他一直在通过一位灵媒和他死去的兄弟交谈。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- mid, intermediary, middle, secondary, moderate （中间的，中等的；半生熟的）
+
+- method, approach, way, system, how （方法；媒体；媒介；中间物）
+
+:::
+
+
+## 2253. gasoline
+
+**汽油**
+
+:::tip{title=🤩短语}
+
+- gasoline engine （汽油机，汽油发动机）
+
+- unleaded gasoline （无铅汽油）
+
+- gasoline tank （油箱，汽油箱）
+
+- gasoline station （加油站）
+
+- gasoline consumption （汽油消耗量）
+
+- leaded gasoline （n. 加铅汽油）
+
+- regular gasoline （普通汽油；常规汽油）
+
+- premium gasoline （变级汽油；高级汽油）
+
+- gasoline tax （汽油税）
+
+:::
+
+:::note{title=🎤例句}
+
+- They ran short of gasoline. （他们的汽油不够了。）
+
+- It smelled like gasoline and flowers mixed together. （“咦~~~~”难闻死了，像是汽油和花香混在一起。）
+
+- This system traps the gasoline vapor escaping from the fuel tank and carburetor . （这个系统能收集从燃油箱和化油器泄漏出来的汽油蒸气。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- gas, benzine （[油气]汽油）
+
+:::
+
+
+## 2254. interface
+
+**界面， 分界面； 接口**
+
+:::tip{title=🤩短语}
+
+- user interface （用户界面）
+
+- interface circuit （接口电路）
+
+- man-machine interface （人机接口；人机联系装置；人机联系）
+
+- communication interface （通信接口）
+
+- graphical user interface （图形用户界面）
+
+- network interface （网络接口；网络界面）
+
+- software interface （软件接口）
+
+- data interface （数据接口；数据界面）
+
+- serial interface （[计]串联接口）
+
+- hardware interface （[计]硬件接口）
+
+- bus interface （总线接口；汇流排介面）
+
+- interface module （接口模块）
+
+- control interface （控制接口）
+
+- output interface （输出接口；輸出界面；输出介面）
+
+- interface card （接口卡；介面卡）
+
+- interface structure （界面结构；接口结构）
+
+- interface layer （接口层，中间层；界面层）
+
+- interface software （接口软件，界面工具）
+
+- human-computer interface （人机界面；人机接口）
+
+- standard interface （标准接口）
+
+:::
+
+:::note{title=🎤例句}
+
+- ...the development of better user interfaces. （…更好用户界面的开发。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- limiting surface, boundary surface （[力][自][地物]界面；[通信][计]接口；[物化]接触面）
+
+:::
+
+
+## 2255. sculpt
+
+**雕刻**
+
+:::note{title=🎤例句}
+
+- An artist sculpted a full-size replica of her head. （一位艺术家雕塑了一尊她头部的全幅头像。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- grave, engrave （造型；雕刻）
+
+- carve out （造型；雕刻）
+
+- carving, graving （雕刻品）
+
+:::
+
+
+## 2256. lipid
+
+**脂质， 类脂**
+
+:::tip{title=🤩短语}
+
+- lipid peroxidation （脂质过氧化；脂质过氧化作用；脂质过氧化反应）
+
+- lipid metabolism （类脂物代谢作用；类脂化合物代谢作用）
+
+- lipid peroxide （脂类过氧化物）
+
+- lipid bilayer （脂质二重层）
+
+:::
+
+:::note{title=🎤例句}
+
+- The job description of a macrophage includes janitorial services such as this, particularly when there is lipid. （巨噬细胞的这种防御功能，尤其是在含脂质较多的组织中发挥得更明显。）
+
+- "They are not a huge prey, but are very nutritious, " Patterson says, because fish lacking swim bladders typically have a high lipid content. （帕特森描述道，这些食物不大，但是营养非常丰富，因为这些没有鱼鳔的鱼通常脂质含量很高。）
+
+- Alcohol, the most common cause, is a hepatotoxin that interferes with mitochondrial and microsomal function in hepatocytes, leading to an accumulation of lipid. （乙醇是最常见的病因，作为肝毒素能阻碍肝细胞内的线粒体和微粒体的功能，导致脂质沉集。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- axunge, grease （[生化]脂质；油脂）
+
+:::
+
+
+## 2257. fatal
+
+**致命的； 毁灭性的； 命中注定的**
+
+:::tip{title=🤩短语}
+
+- fatal accident （死亡事故）
+
+- fatal disease （绝症；不治之症）
+
+- fatal error （致命错误，不可恢复的错误）
+
+- fatal attraction （致命的吸引力（电影名称）；致命的诱惑（电影名称））
+
+- fatal illness （绝症）
+
+:::
+
+:::note{title=🎤例句}
+
+- potentially fatal diseases （潜在致命的疾病）
+
+- If it is not treated correctly, the condition can prove fatal (= be fatal ) . （如果治疗不当，这种病可能会致命。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- important, significant, great, fell, kill （[生物][医]致命的；重大的；毁灭性的；命中注定的）
+
+:::
+
+
+## 2258. hormone
+
+**激素， 荷尔蒙**
+
+:::tip{title=🤩短语}
+
+- growth hormone （n. [生化]生长激素；[生化]植物生长素）
+
+- growth hormone (GH) （[化]生长激素，促生长素）
+
+- growth hormone (gh) （[化]生长激素，促生长素）
+
+- sex hormone （n. [生化]性激素）
+
+- hormone replacement therapy （n. 激素取代疗法）
+
+- thyroid hormone （甲状腺激素）
+
+- luteinizing hormone （促黄体激素，黄体化激素）
+
+- male hormone （n. [化]雄性激素；男性荷尔蒙）
+
+- human growth hormone （人类生长激素）
+
+- steroid hormone （[生化]甾类激素）
+
+- stress hormone （应激激素；压力荷尔蒙；压力激素）
+
+- parathyroid hormone （甲状旁腺素）
+
+- hormone receptor （[医]激素受体；[医]荷尔蒙受体）
+
+- follicle stimulating hormone （促滤泡激素，促卵泡激素）
+
+- antidiuretic hormone （抗利尿激素；后叶加压素（一种由脑垂体后叶分泌的多肽激素，能增强血压，导致尿量减少））
+
+- releasing hormone （释放激素；释放因子）
+
+- juvenile hormone （保幼激素）
+
+- female sex hormone （[医]雌激素）
+
+- gastrointestinal hormone （[生化]胃肠激素）
+
+- adrenal cortical hormone （肾上腺皮质激素）
+
+:::
+
+:::note{title=🎤例句}
+
+- ...the male sex hormone testosterone. （…男性性激素睾酮。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- incretion, corticosteroids （[生理]激素，荷尔蒙）
+
+:::
+
+
+## 2259. psychology
+
+**心理学； 心理， 心理特征**
+
+:::tip{title=🤩短语}
+
+- social psychology （社会心理学）
+
+- cognitive psychology （认知心理学）
+
+- educational psychology （教育心理学）
+
+- consumer psychology （消费者心理学；顾客心理学）
+
+- environmental psychology （环境心理学）
+
+- abnormal psychology （变态心理学）
+
+- child psychology （儿童心理学）
+
+- applied psychology （应用心理学）
+
+- developmental psychology （发展心理学）
+
+- gestalt psychology （格式塔心理学；完形心理学）
+
+- individual psychology （n. 个体心理学）
+
+- health psychology （健康心理学）
+
+- criminal psychology （犯罪心理学）
+
+- evolutionary psychology （进化心理学；演化心理學）
+
+- management psychology （管理心理学；经营心理学）
+
+- moral psychology （品德心理学）
+
+- sport psychology （运动心理学）
+
+- personality psychology （人格心理学；个性心理学）
+
+- clinical psychology （临床心理学）
+
+- group psychology （从众心理；群体心理学）
+
+:::
+
+:::note{title=🎤例句}
+
+- the psychology of three-year-olds （三岁孩子的思想）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- mentation, psychological science （[心理]心理学；心理状态）
+
+:::
+
+
+## 2260. outgas
+
+**除去气**
+
+## 2261. ridge
+
+**脊； 山脊， 山脉； 高压脊； 隆起物**
+
+:::tip{title=🤩短语}
+
+- mountain ridge （山岭；山脊；山梁）
+
+- alveolar ridge （[医]牙槽嵴）
+
+- ridge line （山脊线；甲板中线；分水岭）
+
+- oak ridge （橡树岭（美国田纳西州东部城市））
+
+- oak ridge national laboratory （橡树岭国家实验室）
+
+- pressure ridge （高压脊；气压脊；冰脊）
+
+:::
+
+:::note{title=🎤例句}
+
+- We made our way carefully along the ridge. （我们沿着山脊小心前行。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- mountain range, cordillera （[地理]山脊；山脉；[建]屋脊）
+
+:::
+
+
+## 2262. hypothesize
+
+**假定， 假设**
+
+:::note{title=🎤例句}
+
+- To explain this, they hypothesize that galaxies must contain a great deal of missing matter which cannot be detected. （为了解释这一点，他们假定银河系一定包含了大量无法探测到的不明物质。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- assume that, to suppose （假设，假定）
+
+- assume that, to suppose （假设，假定）
+
+:::
+
+
+## 2263. puritanical
+
+**极守道德的**
+
+:::note{title=🎤例句}
+
+- a puritanical father who wouldn’t let his children watch television （不让孩子看电视的清教徒式的父亲）
+
+- The atmosphere at the school was oppressively puritanical. （那所学校是清教徒式的风气，显得很压抑。）
+
+:::
+
+## 2264. twine
+
+**缠绕， 盘绕， 围绕**
+
+**细绳**
+
+:::note{title=🎤例句}
+
+- He had twined his chubby arms around Vincent's neck. （他胖乎乎的双臂搂住文森特的脖子。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- thread, ensnarl （使缠绕；使交织；编饰）
+
+- wind, twist up （缠绕；搓；交织；编饰）
+
+- string, drawstring （麻线；细绳；搓；合股线）
+
+:::
+
+
+## 2265. mobile
+
+**可移动的； 多变的**
+
+**动的雕塑**
+
+:::tip{title=🤩短语}
+
+- mobile phone （手机；行动电话）
+
+- mobile communication （移动式通信）
+
+- china mobile （中国移动通讯（世界500强之一））
+
+- mobile robot （移动式遥控装置）
+
+- mobile telephone （n. 手机；移动电话；大哥大）
+
+- mobile phase （（色谱分析的）流动相）
+
+- mobile device （移动设备，移动装置；行动装置）
+
+- mobile service （移动业务；手机服务）
+
+- mobile platform （动平台；可自行移动的近海钻井平台；移动式平台；流动平台）
+
+- mobile station （[电信]移动电台）
+
+- mobile number （手机号码）
+
+- mobile equipment （移动设备，移动式设备）
+
+- mobile crane （移动吊车，移动式起重机）
+
+- mobile radio （移动式无线电通信；移动无线电通信；移动式无线电台）
+
+- mobile library （流动图书馆；图书馆车；宣传车）
+
+- mobile home （n. （拖车型）活动房屋；拖车住房）
+
+- mobile computer （笔记型电脑，移动计算机）
+
+- mobile carrier （动态载体；可动载流）
+
+- upwardly mobile （adj. （社会、经济地位）向上升的，有上升趋势的）
+
+- mobile unit （车载设备）
+
+:::
+
+:::note{title=🎤例句}
+
+- mobile air-conditioners （移动式空调器）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- variable, liquid, motor, unstable （[生物]机动的；易变的，；非固定的）
+
+:::
+
+
+## 2266. perform
+
+**做， 履行， 完成； 表演， 演出； 执行**
+
+:::tip{title=🤩短语}
+
+- perform an operation （动手术；做手术）
+
+- perform on （表演；上演；演奏）
+
+- opportunity to perform （实践的机会；表现机会）
+
+- perform maintenance （修理）
+
+- perform a contract （执行合同）
+
+:::
+
+:::note{title=🎤例句}
+
+- Chenier and the band are performing at the Silver Palace tomorrow. （车尼尔和乐队明天将在银宫演出。）
+
+- The children perform two plays each school year. （孩子们一学年表演两部话剧。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- accomplish, implement, achieve, complete, fulfil （执行；完成；演奏）
+
+- put into effect, to carry out （执行，机器运转；表演）
+
+:::
+
+
+## 2267. retrospective
+
+**回顾的， 追想的； 有追溯效力的**
+
+:::tip{title=🤩短语}
+
+- retrospective cohort study （回顾性队列研究；回顾性队列调查）
+
+:::
+
+:::note{title=🎤例句}
+
+- a retrospective study of 110 patients （对110名病人进行的回溯研究）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- nostalgic, reminiscent （回顾的；怀旧的；可追溯的）
+
+:::
+
+
+## 2268. peak
+
+**最高的，高峰的**
+
+**最高点， 顶峰**
+
+:::tip{title=🤩短语}
+
+- peak value （峰值）
+
+- peak load （[经]最大负载）
+
+- peak period （波峰周期；尖峰期）
+
+- peak power （峰值功率，巅值功率）
+
+- peak area （[化]峰面积）
+
+- peak time （（收听广播、收看电视的）高峰时间）
+
+- at the peak of （在…高峰期）
+
+- peak current （峰值电流；峰电流）
+
+- peak stress （峰值应力）
+
+- peak season （旺季）
+
+- peak shaving （峰值负载抑制；高峰调节）
+
+- absorption peak （吸收峰；辐射吸收）
+
+- peak pressure （峰值压力；巅峰压力；最大压力）
+
+- peak flow （洪峰；最大流量）
+
+- peak performance （最佳表演；最佳性能）
+
+- peak voltage （峰值电压；峰压；最大电压）
+
+- peak acceleration （峰值加速度；最大加速度值）
+
+- peak hour （高峰时间；峰荷时间）
+
+- peak height （峰高）
+
+- peak reverse voltage （反峰电压；反向峰值电压）
+
+:::
+
+:::note{title=🎤例句}
+
+- Gasoline prices are 14% below the peak level they hit in November. （汽油价格比11月的最高点下跌了14%。）
+
+- a shampoo designed to keep your hair in peak condition （令秀发保持最佳状态的洗发水）
+
+- If you phone during the day you pay the peak rate for calls. （白天打电话要支付高峰时段电话费。）
+
+- periods of peak demand for electricity （用电需求高峰时段）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- height, sky, summit, mount, crown （山峰；最高点；顶点；[服装]帽舌）
+
+- cock （使达到最高点；使竖起）
+
+- slim down （消瘦；到达最高点；变憔悴）
+
+- highest, supreme, maximum, top, tallest （最高的；最大值的）
+
+:::
+
+
+## 2269. evolution
+
+**发展； 演变， 进化， 进化论**
+
+:::tip{title=🤩短语}
+
+- theory of evolution （进化学说，进化论）
+
+- evolution theory （进化论）
+
+- peaceful evolution （和平演变）
+
+- social evolution （社会演化，社会进化）
+
+- gas evolution （气体逸出；天然气逸出；气体析出）
+
+- cultural evolution （文化进化；文化演进；文化演化）
+
+- organic evolution （生物进化）
+
+- industry evolution （产业演变）
+
+- parallel evolution （平行进化，平行演化）
+
+- evolution of market （市场演变）
+
+- convergent evolution （[生]趋同进化）
+
+:::
+
+:::note{title=🎤例句}
+
+- the theory of evolution （进化论）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- unfolding, Monkey to Man （演变；[进化]进化论；进展）
+
+:::
+
+
+## 2270. lucrative
+
+**赚钱的， 获利的， 有利可图的**
+
+:::note{title=🎤例句}
+
+- Thousands of ex-army officers have found lucrative jobs in private security firms. （成千上万的退役军官在私人保安公司找到了薪水丰厚的工作。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- economical, profitable, paying （[金融]有利可图的，赚钱的；合算的）
+
+:::
+
+
+## 2271. portrait
+
+**肖像， 画像； 描写， 描绘**
+
+:::tip{title=🤩短语}
+
+- head portrait （头像）
+
+- phase portrait （相位图；相图）
+
+- family portrait （全家福）
+
+:::
+
+:::note{title=🎤例句}
+
+- a family portrait （全家福）
+
+- She’s been commissioned to paint Jackson’s portrait . （她已受托为杰克逊画肖像。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- description, image, icon （肖像；描写；半身雕塑像）
+
+:::
+
+
+## 2272. inanity
+
+**空虚， 空洞； 无意义的事物**
+
+:::warning{title=🤔同义词}
+
+- blank, emptiness, simplicity （空虚；愚蠢；浅薄）
+
+:::
+
+
+## 2273. acidity
+
+**酸度； 酸性**
+
+:::note{title=🎤例句}
+
+- Blue cheese can be wrapped in foil, but remember to change the foil every few days as acidity will attack the foil. （蓝纹奶酪可以包在箔纸中，但是切记每隔几天就要换一次箔纸，因为奶酪的酸性会腐蚀箔纸。 。）
+
+- But even this method runs the risk of altering the acidity of soil or marine ecosystems unless precautions are taken with disposal. （但是即便这种方法也面临着改变土壤酸性或海洋生态系统的风险，除非采取处理的预防措施。）
+
+- Age-Worthy: Describes the small number of top wines that have sufficient flavor, acidity, alcohol and tannin to gain additional complexity with time in the bottle. （值得陈年的： 形容少数具有充足风味，酸度，酒精和单宁的顶尖葡萄酒可随着在瓶中的陈年时间而增加其复杂度。）
+
+:::
+
+## 2274. complaint
+
+**诉苦， 抱怨； 投诉； 控告**
+
+:::tip{title=🤩短语}
+
+- complaint about （投诉；对…抱怨）
+
+- lodge a complaint （投诉；对…提出控告）
+
+- complaint center （投诉中心）
+
+- make a complaint （提出投诉；抱怨）
+
+- complaint handling （投诉处理）
+
+- chief complaint （主诉）
+
+:::
+
+:::note{title=🎤例句}
+
+- If you wish to make a complaint, you should see the manager. （如果你要投诉，应该去找经理。）
+
+- The sales assistants are trained to deal with customer complaints in a friendly manner. （售货员都受过培训，要以友好的态度处理顾客的投诉。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- sickness, complain of （抱怨；诉苦；疾病；委屈）
+
+:::
+
+
+## 2275. pinnacle
+
+**山顶， 顶峰； 鼎盛时期； 小尖塔**
+
+:::note{title=🎤例句}
+
+- the pinnacle of academic achievement （学术成就的顶峰）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- pole, climax （高峰；小尖塔；尖峰；极点）
+
+:::
+
+
+## 2276. inject
+
+**注射； 注入， 灌输； 投入**
+
+:::note{title=🎤例句}
+
+- His son was injected with strong drugs. （他的儿子被注射了强效的药。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- breathe into, inflood （注入；注射）
+
+:::
+
+
+## 2277. cannibalism
+
+**嗜食同类**
+
+:::note{title=🎤例句}
+
+- They were forced to practise cannibalism in order to survive. （为了生存，他们被迫同类相食。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- anthropophagy （食人；嗜食同类；残忍的行为）
+
+:::
+
+
+## 2278. indifference
+
+**冷漠， 不关心**
+
+:::tip{title=🤩短语}
+
+- indifference curve （[经]无差异曲线）
+
+:::
+
+:::note{title=🎤例句}
+
+- Whether you stay or leave is a matter of total indifference to me (= I do not care ). （你是留是走我根本无所谓。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- nonchalance, dryness （漠不关心；冷淡；不重视；中立）
+
+:::
+
+
+## 2279. copious
+
+**丰富的， 富饶的**
+
+:::note{title=🎤例句}
+
+- He could drink copious amounts of beer without ill effect. （他可以豪饮啤酒而无不适。）
+
+- She listened to me and took copious notes . （她边听我说话边记下大量笔记。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- abundant, numerous, productive, full, plenty （丰富的；很多的；多产的）
+
+:::
+
+
+## 2280. inception
+
+**开端， 开始**
+
+:::note{title=🎤例句}
+
+- a CD collection covering the band from its inception in 1994 （一套包括该乐队自1994年成立以来所有曲目在内的激光唱片）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- incipiency （起初；获得学位）
+
+:::
+
+
+## 2281. channel
+
+**频道； 渠道， 途径； 通道； 海峡； 水道， 航道**
+
+:::tip{title=🤩短语}
+
+- marketing channel （销售渠道，行销通道）
+
+- main channel （主通道）
+
+- change the channel （[美国俚语]转移话题）
+
+- english channel （（英法之间）英吉利海峡）
+
+- distribution channel （分销渠道；销售渠道）
+
+- communication channel （通信信道；通信电路）
+
+- river channel （河道；河槽；船舶航道）
+
+- single channel （单波道；单频道）
+
+- open channel （明渠）
+
+- channel management （渠道管理；通道管理）
+
+- distributary channel （分流河道）
+
+- flow channel （流道；流动水槽）
+
+- channel capacity （通道容量；通路的频带宽度）
+
+- water channel （水通道；水力槽）
+
+- television channel （电视频道）
+
+- channel steel （槽钢；槽形钢）
+
+- transmission channel （[计]传输通道）
+
+- information channel （信息通道）
+
+- ion channel （离子通道）
+
+- channel system （渠道体系，经络系统）
+
+:::
+
+:::note{title=🎤例句}
+
+- the news on Channel 4 （第四频道播出的新闻）
+
+- The kids are watching cartoons on the Disney Channel. （孩子们在看迪士尼频道的卡通片。）
+
+- What channel is ‘ER’ on? （《仁心仁术》在哪个频道播放？）
+
+- He changed channels to watch the basketball game. （他转换频道看篮球比赛。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- aim, boot （引导，开导；形成河道）
+
+- door, exit, neck, route, narrow （通道；频道；海峡）
+
+:::
+
+
+## 2282. focus
+
+**集中； 聚焦**
+
+**焦点，焦距；中心**
+
+:::tip{title=🤩短语}
+
+- focus on （集中于）
+
+- focus of （……的焦点）
+
+- in focus （清晰；焦点对准）
+
+- focus in （焦点；专注于…）
+
+- out of focus （焦点没对准的；模糊不清的）
+
+- focus group （n. 焦点小组；典型群众）
+
+- customer focus （顾客导向）
+
+- primary focus （主焦点；优先考虑）
+
+- focus point （聚集点）
+
+- shift the focus （变换焦点）
+
+- focus attention on （集中精力于）
+
+- bring into focus （使变得清楚；对好焦距）
+
+- focus media （分众传媒控股有限公司）
+
+- sharp focus （锐聚焦）
+
+- come into focus （◎(某物)轮廓明显，清晰）
+
+- depth of focus （焦深；景深）
+
+- ford focus （福特福克斯（美国汽车公司））
+
+- prime focus （主焦点）
+
+- focus strategy （集中化战略；焦点策略；集中战略）
+
+- automatic focus （自动调焦，自动对焦；电子调焦；自动聚焦）
+
+:::
+
+:::note{title=🎤例句}
+
+- His eyes were focussed straight ahead. （他的双眼盯着正前方。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- center, hub, fairness （[光][数]焦点；中心；清晰；焦距）
+
+- centralize （使集中；[光][摄]使聚焦）
+
+- concentrate, band （集中；[光][摄]聚焦；调节焦距）
+
+:::
+
+
+## 2283. hamper
+
+**妨碍，阻挠**
+
+**大篮子**
+
+:::note{title=🎤例句}
+
+- She tried to run, but was hampered by her heavy suitcase. （她想跑，但沉重的旅行箱拖累了她。）
+
+- An attempt to rescue the men has been hampered by bad weather. （对那几名男子的营救行动受到恶劣天气的阻碍。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- let, chain, bound （妨碍；束缚；使困累）
+
+- hindrance, incumbrance （食盒，食篮；阻碍物）
+
+:::
+
+
+## 2284. approach
+
+**接近；**
+
+:::tip{title=🤩短语}
+
+- new approach （新方案；新做法）
+
+- an approach to （学习...的入门；学习...的途径）
+
+- basic approach （基本方法）
+
+- approach with （以…方式处理；向…提出建议）
+
+- design approach （设计方法；设计方式）
+
+- research approach （研究途径；研究方案）
+
+- analysis approach （分析方法；分析研究）
+
+- systematic approach （系统观点，系统研究法）
+
+- make an approach to （对…进行探讨）
+
+- analytical approach （分析方法）
+
+- process approach （过程研究法）
+
+- alternative approach （变换方法）
+
+- system approach （系统方法）
+
+- holistic approach （整体分析，整体研究）
+
+- direct approach （直接法；直接进场；直接接近法）
+
+- approach channel （进港航道；引水渠）
+
+- pragmatic approach （实际的方法；重实效的方法）
+
+- experimental approach （实验研究法）
+
+- systems approach （系统方法；系统论方法）
+
+- income approach （收益法；所得方法；入息计算法）
+
+:::
+
+:::note{title=🎤例句}
+
+- As I approached the house, I noticed a light on upstairs. （我走近那幢房子的时候注意到楼上有灯光。）
+
+- She heard footsteps approaching. （她听到有脚步声走过来。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- method, way, system, mechanism, medium （方法；途径；接近）
+
+- border, go on for （接近；着手处理）
+
+- come near to, draw near （靠近）
+
+:::
+
+
+## 2285. usher
+
+**引领， 引导**
+
+**领座员，招待员**
+
+:::tip{title=🤩短语}
+
+- usher in （领进，引进）
+
+:::
+
+:::note{title=🎤例句}
+
+- I ushered him into the office. （我领他进了办公室。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- porter, receptionist （引座员，带位员；接待员；门房）
+
+- aim, serve, invite, attend, guest （引导，招待；迎接；开辟）
+
+- ush （作招待员；当引座员）
+
+:::
+
+
+## 2286. decisive
+
+**决定性的； 果断的**
+
+:::tip{title=🤩短语}
+
+- decisive factor （决定性因素）
+
+:::
+
+:::note{title=🎤例句}
+
+- a decisive leader （果断的领袖）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- crucial, critical, final, committed, confirmed （决定性的；果断的，坚定的）
+
+:::
+
+
+## 2287. pollinate
+
+**给…授粉**
+
+:::note{title=🎤例句}
+
+- flowers pollinated by bees （由蜜蜂授粉的花）
+
+:::
+
+## 2288. concise
+
+**简明的， 简练的**
+
+:::note{title=🎤例句}
+
+- Your summary should be as clear and concise as possible. （你的总结应该尽可能地明白简洁。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- brief, compact （简明的，简洁的）
+
+:::
+
+
+## 2289. thesis
+
+**论文； 论题， 论点**
+
+:::tip{title=🤩短语}
+
+- graduation thesis （毕业论文；毕业设计）
+
+- thesis writing （论文写作）
+
+- scientific thesis （科学论点）
+
+- thesis defense （论文答辩）
+
+:::
+
+:::note{title=🎤例句}
+
+- Cynthia’s still working on her thesis. （辛西娅还在写论文。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- dissertation, tractate （论文；论点）
+
+:::
+
+
+## 2290. bump
+
+**碰撞**
+
+**肿块；撞击；碰撞声**
+
+:::tip{title=🤩短语}
+
+- bump into （无意中遇到、碰到）
+
+- with a bump （意外地，突然）
+
+- bump against （撞；碰）
+
+- bump up （突然增加；提升）
+
+- bump off （干掉]）
+
+- bump mapping （凹凸贴图；凸凹处理；凹凸映射）
+
+:::
+
+:::note{title=🎤例句}
+
+- The roof was so low he bumped his head (=  his head hit the roof  ) . （屋顶很低，他都碰到头了。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- tumor, knub （肿块，隆起物；撞击）
+
+- hit, impact on, crash （碰撞，撞击；颠簸而行）
+
+- to run into, to hit （碰，撞；颠簸）
+
+- suddenly, heavily, strong, sharp, hard （突然地，猛烈地）
+
+:::
+
+
+## 2291. precursor
+
+**先驱； 先兆， 前兆； 前身**
+
+:::tip{title=🤩短语}
+
+- precursor chemicals （易制毒化学品）
+
+:::
+
+:::note{title=🎤例句}
+
+- He said that the deal should not be seen as a precursor to a merger. （他说这次交易不应该被看作是合并的前兆。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- forerunner, vaunt-courier （先驱，前导）
+
+:::
+
+
+## 2292. revive
+
+**恢复； 苏醒； 重新利用**
+
+:::note{title=🎤例句}
+
+- Local people have decided to revive this centuries-old tradition. （当地人决定复兴这一延续了数个世纪的传统。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- come back to life again, resurge （复兴；复活；苏醒；恢复精神）
+
+- recall, reinvigorate （使复兴；使苏醒；回想起；重演，重播）
+
+:::
+
+
+## 2293. fumigate
+
+**烟熏， 香薰**
+
+## 2294. arid
+
+**干旱的； 贫瘠的； 无趣的**
+
+:::tip{title=🤩短语}
+
+- arid area （干旱区）
+
+- arid region （干旱区域，干旱地区；干燥区）
+
+- arid land （n. 旱地；贫瘠地）
+
+- arid climate （干旱地带；干燥气候）
+
+- semi arid （adj. 半干燥的）
+
+- arid zone （干旱带）
+
+:::
+
+:::note{title=🎤例句}
+
+- Water from the Great Lakes is pumped to arid regions . （五大湖中的水被输往干旱地区。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- hungry, waste, desert （[气候]干旱的；不毛的，[农]荒芜的）
+
+:::
+
+
+## 2295. fiber
+
+**纤维素； 纤维制品； 纤维**
+
+:::tip{title=🤩短语}
+
+- carbon fiber （碳化纤维，碳素纤维）
+
+- optical fiber （光纤，光导纤维）
+
+- glass fiber （玻璃纤维）
+
+- chemical fiber （n. 化学纤维）
+
+- fiber optic （adj. 光学纤维的）
+
+- steel fiber （钢纤维；金属纤维）
+
+- dietary fiber （食用纤维；[机]食纤维质）
+
+- polyester fiber （n. 聚酯纤维）
+
+- hollow fiber （中空纤维）
+
+- synthetic fiber （n. 人造纤维，合成纤维）
+
+- fiber grating （光纤光栅）
+
+- fiber laser （纤维激光器）
+
+- cotton fiber （棉纤维）
+
+- polypropylene fiber （聚丙烯纤维；丙纶，丙纶纤维）
+
+- fiber reinforced plastic （纤维增强塑料）
+
+- short fiber （短纤维）
+
+- fiber reinforced concrete （纤维性混凝土）
+
+- fiber can （棉条桶；纸板桶；纤维罐；纤维板桶）
+
+- acrylic fiber （n. 丙烯酸纤维）
+
+- staple fiber （纺纱用的人造短纤维）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- fibre, funicle （纤维；光纤（等于fibre））
+
+:::
+
+
+## 2296. proceed
+
+**进行下去， 继续做； 发生； 继续下去； 行进， 前往**
+
+:::tip{title=🤩短语}
+
+- proceed with （继续进行）
+
+- proceed from （从...出发）
+
+- proceed against （起诉；控诉；提起诉讼）
+
+:::
+
+:::note{title=🎤例句}
+
+- Before proceeding further, we must define our terms. （我们必须先定义术语，然后再往下展开。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- occur, happen, travel, pursue （开始；继续进行；发生；行进）
+
+:::
+
+
+## 2297. musical
+
+**音乐的；悦耳的；有音乐天赋的，爱好音乐的**
+
+**音乐剧**
+
+:::tip{title=🤩短语}
+
+- musical instrument （乐器）
+
+- musical composition （乐曲）
+
+- musical performance （n. 演奏（会）；音乐表演）
+
+- musical sound （乐音，音乐声）
+
+- musical notation （乐谱；音乐符号）
+
+- musical comedy （音乐喜剧；歌舞喜剧）
+
+- musical note （音符；律音）
+
+- broadway musical （百老汇音乐剧）
+
+- numbered musical notation （简谱）
+
+- musical box （n. 音乐盒）
+
+- musical chairs （抢椅游戏）
+
+- musical scale （n. 音阶）
+
+:::
+
+:::note{title=🎤例句}
+
+- a musical version of the fairy tale ‘Cinderella’ （童话故事《灰姑娘》的音乐剧版）
+
+- When he began his musical career, King played only for black audiences. （金在音乐事业的开始阶段只为黑人观众演奏。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- harmonious, sweet （音乐的；悦耳的）
+
+:::
+
+
+## 2298. aria
+
+**独唱曲， 咏叹调**
+
+:::note{title=🎤例句}
+
+- It is a scenic art integrating music, performance, literature, aria, and face-painting. （这是一个风景艺术集音乐，表演，文学，咏叹调，和画脸。）
+
+- I hope my poem is about loss, not nostalgia, that the tenor singing an Italian aria, like the ruined pilasters of the theater, suggests an historical dimension of loss. （我希望我的诗表现的是失落，而非乡愁，如同那名男高音唱着意大利咏叹调，宛如剧院的断壁颓垣，都流露出历史的失落。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- arioso （咏叹调，独唱曲）
+
+:::
+
+
+## 2299. bulb
+
+**鳞茎； 鳞茎状物； 灯泡**
+
+:::tip{title=🤩短语}
+
+- light bulb （电灯泡）
+
+- olfactory bulb （嗅球）
+
+- dry bulb （干球，干球式的）
+
+- incandescent bulb （n. 白炽灯泡，白炽灯照）
+
+- lily bulb （百合粉末，百合）
+
+- wet bulb （湿球温度计）
+
+- dry bulb temperature （干球温度）
+
+- electric bulb （n. 电灯泡）
+
+- duodenal bulb （[医]十二指肠冠，十二指肠球部）
+
+- lamp bulb （灯泡；玻璃泡）
+
+- wet bulb temperature （[化]湿球温度）
+
+:::
+
+:::note{title=🎤例句}
+
+- a 100-watt bulb （一个100瓦的灯泡）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- third wheel, electric lamp （[电]电灯泡；[植]鳞茎；球状物）
+
+:::
+
+
+## 2300. dismiss
+
+**不再考虑， 不接受； 消除， 摒除； 免职， 解雇； 解散， 遣散； 驳回， 不受理**
+
+:::tip{title=🤩短语}
+
+- dismiss from （解雇；开除）
+
+:::
+
+:::note{title=🎤例句}
+
+- The government has dismissed criticisms that the country’s health policy is a mess. （有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- remove, fire out （解散；解雇；开除；让...离开）
+
+- disband, break up （解散）
+
+:::
+
+
+## 2301. abysmal
+
+**深不可测的； 极坏的， 糟透的**
+
+:::note{title=🎤例句}
+
+- The reunion was an abysmal failure. （重逢聚会弄得一团糟。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- excessive, extreme （深不可测的；糟透的；极度的）
+
+:::
+
+
+## 2302. verbiage
+
+**冗词， 赘言， 废话**
+
+:::note{title=🎤例句}
+
+- meaningless verbiage （不知所云的冗词）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- bushwa, rubbish （冗词；废话；措辞方式）
+
+:::
+
+
+## 2303. underlying
+
+**潜在的； 基础的**
+
+:::tip{title=🤩短语}
+
+- underlying surface （下垫面，下伏面；伏面）
+
+- underlying asset （标的资产；基础资产；相关/指定资产）
+
+- underlying strata （底板岩石）
+
+- underlying structure （基底结构，底层结构）
+
+- underlying share （期权基础股份）
+
+- underlying securities （[金融]标的证券；附属公司证券）
+
+:::
+
+:::note{title=🎤例句}
+
+- To stop a problem you have to understand its underlying causes. （要解决问题，你得了解其潜在原因。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- organic, potential, fundamental, preferred, ultimate （潜在的；根本的；在下面的；优先的）
+
+:::
+
+
+## 2304. intelligence
+
+**智力， 智慧； 情报**
+
+:::tip{title=🤩短语}
+
+- artificial intelligence （人工智能）
+
+- competitive intelligence （竞争情报）
+
+- business intelligence （商业智能）
+
+- emotional intelligence （情绪智力；情商；情绪智商）
+
+- intelligence quotient （智商（缩写为IQ））
+
+- intelligence quotient (IQ) （智商）
+
+- intelligence quotient (iq) （智商）
+
+- high intelligence （高智商，高智力；高智能）
+
+- market intelligence （市场情报；市场信息；巿场资讯）
+
+- intelligence agency （情报局；情报单位）
+
+- intelligence service （情报部门；情报工作；智能型服务）
+
+- intelligence development （智力发展；智力开发）
+
+- intelligence test （智力测验）
+
+- intelligence community （情报界；情报共同体）
+
+- military intelligence （军事情报）
+
+- central intelligence agency （美国中央情报局（CIA））
+
+- intelligence official （情报官员）
+
+- intelligence officer （情报人员；消防情报员）
+
+- general intelligence （一般智力；普通智力）
+
+- intelligence gathering （情报收集；情报搜集）
+
+:::
+
+:::note{title=🎤例句}
+
+- To be good at the game, you need a reasonable level of intelligence. （要想把这种游戏玩好，需要一定的智力水平。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- brain, mind, mentality, understanding, head （[心理]智力；情报工作；[图情]情报机关；理解力）
+
+:::
+
+
+## 2305. utilitarian
+
+**实用的；功利主义的**
+
+**功利主义者**
+
+:::note{title=🎤例句}
+
+- ugly utilitarian buildings （丑陋但实用的建筑物）
+
+- One of the greatest utilitarians was Claude Helvetius. （最伟大的功利主义者之一是克劳德·爱尔维修。）
+
+:::
+
+## 2306. even
+
+**甚至，连；甚至可以说**
+
+**平滑的，平坦的；平稳的，均匀的；均衡的；平均的；偶数的**
+
+**平坦； 相等**
+
+:::tip{title=🤩短语}
+
+- and even （乃至）
+
+- even if （即使；虽然）
+
+- even more （更多地，更多的）
+
+- even when （即使当）
+
+- even as （正如；正巧在…的时候）
+
+- even so （虽然如此，即使如此）
+
+- even worse （更糟的是）
+
+- even now （即使到现在；尽管这样）
+
+- make even （使平坦；使最后一行排足）
+
+- break even （不赚不赔；并列起跑；打成平手）
+
+- even then （conj. 即使那样；即使在那时）
+
+- get even （报复；扯平；算帐）
+
+- never even （连…也不）
+
+- even number （偶数）
+
+- even distribution （均匀分布）
+
+- even up （平均，拉平；扯平，使相等）
+
+- even out （v. 使平坦；使均等；变正常）
+
+- even since （自从）
+
+- get even with （报复）
+
+- even pressure （均匀压力）
+
+:::
+
+:::note{title=🎤例句}
+
+- Most companies have suffered a drop in their profits, even very large companies. （大多数公司的利润都出现下滑，甚至连很大的公司也不例外。）
+
+- It was quite difficult to see, even with the light on. （这很难看得见，即使开着灯也没有用。）
+
+- He became quite successful and even appeared on a television show once. （他相当成功，甚至还上了一次电视节目。）
+
+- She did not even bother to phone us. （她甚至连电话都没打给我们。）
+
+- He never even acknowledged my letter. （他收到我的信甚至从不会告知一声。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- flat, equivalent, equal, level （[数]偶数的；平坦的；相等的）
+
+- actually, really, too, effectively, yet （甚至；即使；还；实际上）
+
+- equate with （使平坦；使相等）
+
+- flatten out （变平；变得可比较；成为相等）
+
+:::
+
+
+## 2307. ambience
+
+**周围环境， 气氛**
+
+:::note{title=🎤例句}
+
+- The overall ambience of the room is cosy. （这个房间的整体氛围是舒适的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- atmosphere, mood, set （气氛，布景；周围环境）
+
+:::
+
+
+## 2308. install
+
+**安置， 安装**
+
+:::note{title=🎤例句}
+
+- They’ve installed the new computer network at last. （他们终于安装了新电脑网络。）
+
+- Security cameras have been installed in the city centre. （在市中心已安装了一些监控摄像机。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- fit, constitute, fix, place, name （安装；任命；安顿）
+
+:::
+
+
+## 2309. analyze
+
+**分析， 研究**
+
+:::tip{title=🤩短语}
+
+- analyze data （分析数据；分析资料）
+
+:::
+
+:::note{title=🎤例句}
+
+- We have to analyze and solve problems. （我们要分析问题，解决问题。）
+
+- We should analyze the causes of failure. （我们应该分析一下失败的缘由。）
+
+- Problems arise because we often do not know what data to capture and, after you capture it, how to analyze it. （问题又出现了，因为我们经常不知道去捕捉什么数据，在捕捉数据以后，怎样来分析它。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- break down （对…进行分析，分解（等于analyse））
+
+:::
+
+
+## 2310. cuneiform
+
+**〔古代美索不达米亚人使用的〕楔形文字的**
+
+:::note{title=🎤例句}
+
+- The chicken scratch is cuneiform. （鸡爪印是楔形文字。）
+
+- She wrote hymns to the gods in cuneiform. （她用楔形文字写下了献给神祇的颂歌。）
+
+- A 1913 statute, still on the books, sought to thwart propaganda by forbidding the hiring of "publicity experts, " a ban that has as much to do with modern communication as cuneiform tablets. （一项1913年颁布、至今有效的法律旨在通过禁止雇用“公关专家”来阻止宣传，这道禁令涵盖的是从现代通讯到楔形文字泥板的一切。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- wedgy, sphenoidal （[解剖][生物]楔形的；楔形文字的；楔状骨的）
+
+- sphenoid （楔形文字；[解剖]楔状骨）
+
+:::
+
+
+## 2311. bulk
+
+**容积， 体积； 主体， 大部分**
+
+:::tip{title=🤩短语}
+
+- the bulk of （大多数，大部）
+
+- in bulk （整批，散装；大批，大量）
+
+- bulk cargo （散装货）
+
+- bulk density （容积密度，体积密度；单位体积重量）
+
+- bulk cement （散装水泥）
+
+- dry bulk （干散货）
+
+- bulk material （疏松物质）
+
+- bulk polymerization （本体（整体）聚合）
+
+- bulk carrier （散装货船，散货船）
+
+- bulk production （批量生产）
+
+- bulk modulus （体积弹性模量）
+
+- bulk grain （散粮；散装谷物）
+
+- soil bulk density （土壤容重；土壤颗粒密度）
+
+- bulk commodity （大宗商品，散装货物）
+
+- bulk goods （散装货物）
+
+- bulk order （大宗订单）
+
+- bulk purchase （大量采购，成批采购）
+
+- bulk volume （总体积）
+
+- bulk up （胀大；形成大数目）
+
+- bulk cement truck （散装水泥卡车；散装水泥运输车）
+
+:::
+
+:::note{title=🎤例句}
+
+- The bulk of consumers are based in towns. （大多数消费者都是城镇居民。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- most of, volume, content （体积，容量；大多数，大部分；大块）
+
+- exaggerate, broaden （使扩大，使形成大量；使显得重要）
+
+:::
+
+
+## 2312. vacancy
+
+**空房间； 空位， 空缺； 空虚**
+
+:::tip{title=🤩短语}
+
+- vacancy rate （空置率，闲置率；职位空缺比率）
+
+- job vacancy （职业空缺，岗位空缺）
+
+- fill a vacancy （补缺；填补空白）
+
+- no vacancy （没有空房；客满）
+
+:::
+
+:::note{title=🎤例句}
+
+- There are still two vacancies on the school board. （学校董事会还有两个职位空缺。）
+
+- The council is making every effort to fill the vacancies. （地方议会正想方设法填补这些职缺。）
+
+- information about job vacancies  （招聘信息）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- gap, blank （空缺；[电子]空位；空白；空虚）
+
+:::
+
+
+## 2313. champion
+
+**冠军；拥护者**
+
+**声援**
+
+:::tip{title=🤩短语}
+
+- olympic champion （奥运冠军；奥林匹克冠军）
+
+- defending champion （卫冕冠军）
+
+- open champion （公开(锦标)赛冠军）
+
+- reigning world champion （卫冕世界冠军）
+
+:::
+
+:::note{title=🎤例句}
+
+- the world heavyweight boxing champion （世界重量级拳击冠军）
+
+- the Olympic champion （奥运会冠军）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- title, first （冠军；拥护者；战士）
+
+- encourage, second, back, carry, hand （支持；拥护）
+
+- classical, royal （优胜的；第一流的）
+
+:::
+
+
+## 2314. ceramic
+
+**陶器的， 瓷器的**
+
+:::tip{title=🤩短语}
+
+- ceramic tile （n. 瓷砖（有釉或无釉的））
+
+- ceramic material （n. 陶瓷材料；陶瓷原料）
+
+- piezoelectric ceramic （压电陶瓷）
+
+- ceramic coating （陶瓷涂层）
+
+- ceramic membrane （陶瓷膜）
+
+- ceramic filter （陶瓷过滤器）
+
+- ceramic fiber （陶瓷纤维）
+
+- ceramic powder （陶瓷粉）
+
+- ceramic glaze （n. 釉）
+
+- ceramic product （陶瓷制品）
+
+- glass ceramic （玻璃陶瓷；陶瓷平台）
+
+- ceramic pigment （n. 陶瓷颜料）
+
+- ceramic substrate （陶瓷；陶瓷基片；陶瓷衬底）
+
+- ceramic plate （陶瓷板）
+
+- ceramic capacitor （[电]陶瓷电容器）
+
+- ceramic bearing （陶瓷轴承）
+
+- ceramic wall （n. 陶瓷砖墙）
+
+- ceramic mosaic （陶瓷马赛克；陶瓷锦砖）
+
+- ceramic metal （金属陶瓷）
+
+- ceramic fibre （陶瓷纤维；耐火陶瓷纤维）
+
+:::
+
+:::note{title=🎤例句}
+
+- I make ceramic cups there. Do you remember the gift I gave you for your last birthday? Those two cups? （在那里，我可以自己制作陶瓷茶杯。还记得你上次生日时我送你的礼物吗？那两个茶杯？）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- keramic, vitrified （[陶瓷]陶瓷的；陶器的；制陶艺术的）
+
+- cer, pottery and porcelain （[陶瓷]陶瓷；陶瓷制品）
+
+:::
+
+
+## 2315. plumage
+
+**鸟类羽毛**
+
+:::note{title=🎤例句}
+
+- the parrot’s brilliant blue plumage （那只鹦鹉亮丽的蓝色羽毛）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- wing （翅膀；鸟类羽毛）
+
+:::
+
+
+## 2316. circuit
+
+**电路； 线路； 巡回； 环行； 环行路线**
+
+:::tip{title=🤩短语}
+
+- control circuit （控制电路）
+
+- integrated circuit （集成电路）
+
+- circuit design （电路设计）
+
+- circuit board （电路板；线路板）
+
+- short circuit （短路；漏电）
+
+- circuit breaker （[电]断路器）
+
+- printed circuit （[计]印刷电路）
+
+- electric circuit （电路（等于circuit））
+
+- main circuit （主电路；主回路；昼路）
+
+- and circuit （[计]“与”门电路（等于AND gate））
+
+- printed circuit board （印刷电路板）
+
+- interface circuit （接口电路）
+
+- equivalent circuit （等效电路）
+
+- electronic circuit （电子线路，电子电路）
+
+- digital circuit （数字电路）
+
+- circuit diagram （电路图；线路图）
+
+- closed circuit （闭合线路，闭合电路）
+
+- drive circuit （驱动电路；激励电路）
+
+- magnetic circuit （磁路）
+
+- analog circuit （模拟电路；类比电路）
+
+:::
+
+:::note{title=🎤例句}
+
+- We did a circuit of the old city. （我们绕着老城走了一圈。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- electrocircuit, contour （[电子]电路，回路；巡回；一圈；环道）
+
+- round （环行）
+
+:::
+
+
+## 2317. piracy
+
+**海盗行为； 抢劫行为； 剽窃行为**
+
+:::tip{title=🤩短语}
+
+- software piracy （软件盗版）
+
+:::
+
+:::note{title=🎤例句}
+
+- software piracy （软件盗版）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- plagiarism, cribbing （海盗行为；剽窃；著作权侵害；非法翻印）
+
+:::
+
+
+## 2318. locomotion
+
+**移动； 运动**
+
+:::note{title=🎤例句}
+
+- Flight is the form of locomotion that puts the greatest demands on muscles. （飞行是对肌肉要求最高的运动形式。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- movement, removal, exercise, sport, campaign （运动；移动；旅行）
+
+:::
+
+
+## 2319. magnificent
+
+**极好的； 宏伟的， 华丽的； 崇高的， 高尚的**
+
+:::note{title=🎤例句}
+
+- a magnificent performance （气势恢宏的演出）
+
+- The twelve-mile coastline has magnificent sce-nery. （这12英里的海岸线景色壮观。）
+
+- She looked magnificent in a long red dress. （她穿着红色长裙，看起来美极了。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- grand, noble, brave （高尚的；壮丽的；华丽的；宏伟的）
+
+:::
+
+
+## 2320. irregular
+
+**不规则的， 无规律的； 不整齐的； 不合常规的**
+
+:::tip{title=🤩短语}
+
+- irregular menstruation （月经不调）
+
+- irregular wave （[化]不规则波）
+
+- irregular verb （不规则动词）
+
+:::
+
+:::note{title=🎤例句}
+
+- a jagged, irregular coastline （锯齿状不规则的海岸线）
+
+- It has a highly irregular shape, covered in bumps and indentations. （它的外形极不规则，满是凸起和凹陷的地方。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- abnormal, orrow （[语]不规则的；无规律的；[数]非正规的；不合法的）
+
+:::
+
+
+## 2321. restrict
+
+**限制， 约束**
+
+:::note{title=🎤例句}
+
+- The new law restricts the sale of hand guns. （新法规限制手枪的销售。）
+
+- You may need to restrict access to certain files (= limit the number of people who can read them ) . （某些档案可能需要限制查阅。）
+
+- The agreement will restrict competition. （这个协议将限制竞争。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- block, set a limit to （限制；约束；限定）
+
+:::
+
+
+## 2322. mason
+
+**石匠， 泥瓦匠**
+
+:::warning{title=🤔同义词}
+
+- Templar, Freemasonry （泥瓦匠；共济会会员（等于freemason））
+
+:::
+
+
+## 2323. recharge
+
+**充电； 休整； 再装弹药**
+
+:::tip{title=🤩短语}
+
+- groundwater recharge （地下水补给）
+
+- recharge area （补注区，补给区）
+
+:::
+
+:::note{title=🎤例句}
+
+- The device can recharge a battery in about 25 minutes. （该充电器可在约25分钟内完成给电池充电。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- reindict （[电]再充电；再袭击；再控告）
+
+:::
+
+
+## 2324. legislate
+
+**制定法律； 通过立法**
+
+:::note{title=🎤例句}
+
+- Most member countries have already legislated against excessive overtime. （大部分成员国已经立法禁止过度加班。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- pass laws （立法；制定法律）
+
+:::
+
+
+## 2325. imperative
+
+**迫切的，重要紧急的；必要的；命令的；**
+
+:::tip{title=🤩短语}
+
+- imperative sentence （祈使句；命令句）
+
+- imperative mood （祈使语气；命令语气；祈使式）
+
+:::
+
+:::note{title=🎤例句}
+
+- It is imperative that politicians should be good communicators. （政治家应该是很好的沟通者，这很重要。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- necessary, urgent, essential, emergency, instant （必要的，势在必行的；命令的；紧急的）
+
+- necessity, instruction, need, request, order （需要；命令；祈使语气；规则）
+
+:::
+
+
+## 2326. documentary
+
+**文件的，文献的；记录的，纪实的**
+
+**纪录片**
+
+:::tip{title=🤩短语}
+
+- documentary film （纪录片；文献片）
+
+- documentary credit （押汇信用证）
+
+- documentary evidence （证明文件；书面证明）
+
+- documentary draft （跟单汇票；押汇汇票）
+
+- documentary letter of credit （跟单信用证；跟单信用状）
+
+- documentary proof （文件证明）
+
+- documentary collection （跟单托收）
+
+:::
+
+:::note{title=🎤例句}
+
+- documentary films （纪录影片）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- recorded （记录的；文件的；记实的）
+
+:::
+
+
+## 2327. hitherto
+
+**迄今， 至今**
+
+:::note{title=🎤例句}
+
+- a species of fish hitherto unknown in the West （迄今在西方还不为人知的一种鱼）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- hereunto, erenow （迄今；至今）
+
+:::
+
+
+## 2328. consequence
+
+**结果； 影响； 推理； 重要， 重大**
+
+:::tip{title=🤩短语}
+
+- as a consequence （因此，结果）
+
+- in consequence （因此；结果）
+
+- as a consequence of （因此；由于…的结果）
+
+- in consequence of （由于…的缘故）
+
+- of consequence （重要，有意义）
+
+- of no consequence （无足轻重）
+
+- evil consequence （恶果）
+
+- immediate consequence （直接后果）
+
+- economic consequence （经济后果；经济结果）
+
+:::
+
+:::note{title=🎤例句}
+
+- I don’t suppose it is of any consequence now. （现在我觉得这事一点都无所谓了。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- outcome, product, result, significance, event, conclusion （结果；重要性；推论）
+
+:::
+
+
+## 2329. linear
+
+**线的， 直线的； 线性的； 长度的**
+
+:::tip{title=🤩短语}
+
+- linear regression （线性回归）
+
+- linear programming （n. 线性规划）
+
+- linear model （线性模型；线性模式）
+
+- linear relationship （线性关系）
+
+- linear system （线性系统）
+
+- linear motor （直线电机；线性电动机；线型马达）
+
+- non linear （非直线性的，非线性的）
+
+- linear relation （线性关系）
+
+- linear interpolation （线性插值；线性内插法；直线切削）
+
+- multiple linear regression （多元线性回归；复直线回归）
+
+- linear algebra （线性代数）
+
+- linear combination （线性组合）
+
+- linear function （线性函数）
+
+- linear equation （n. 线性方程）
+
+- linear motion （直线运动）
+
+- linear array （一维数组；线性排列；[电磁]直线天线阵）
+
+- linear regression analysis （线性回归分析，直线回归分析）
+
+- linear correlation （线性相关）
+
+- linear range （线性范围；直线射程）
+
+- linear velocity （线速度）
+
+:::
+
+:::note{title=🎤例句}
+
+- a linear diagram （线形图）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- longitudinal, thready （[数]线的，线型的；直线的，线状的；长度的）
+
+:::
+
+
+## 2330. robust
+
+**健壮的， 强壮的**
+
+:::tip{title=🤩短语}
+
+- robust control （[机]鲁棒控制；强健控制）
+
+- robust design （n. 稳健设计；坚稳设计）
+
+- robust estimation （抗差估计，稳健估计；强估计）
+
+- robust statistics （坚固统计量）
+
+:::
+
+:::note{title=🎤例句}
+
+- a robust man of six feet four （一个身高六英尺四英寸的壮汉）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- healthy, crude, gross, fine, rough （强健的；健康的；[生物]粗野的；粗鲁的）
+
+:::
+
+
+## 2331. raven
+
+**乌黑光亮的**
+
+**渡鸦**
+
+:::note{title=🎤例句}
+
+- Which waves in every raven tress . （美波动在她乌黑的发上。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- rapine, plunderage （掠夺，劫掠；大乌鸦）
+
+- sooty （乌黑的）
+
+- harry, despoil （掠夺；狼吞虎咽）
+
+- prey upon, gobble up （掠夺；狼吞虎咽）
+
+:::
+
+
+## 2332. dominant
+
+**统治的， 支配的， 占优势的； 有统治权的**
+
+:::tip{title=🤩短语}
+
+- dominant role （主要角色）
+
+- dominant effect （显性效应；显性效果）
+
+- diagonally dominant （对角占优；对角优势的）
+
+- dominant mode （主要模型；振荡基型；波基型；振荡）
+
+- dominant frequency （优势频率，主频率）
+
+- dominant gene （显性基因）
+
+- dominant culture （主流文化；主文化；主导文化）
+
+- autosomal dominant inheritance （常染色体显性遗传）
+
+- diagonally dominant matrix （对角主导矩阵）
+
+- dominant hue （主色调， 支配彩色）
+
+- dominant character （优势遗传性质，主宰形质；显性性状）
+
+- dominant strategy （优势策略；占优战略）
+
+- dominant wavelength （[光学]主波长；支配彩色的波长）
+
+- dominant hand （优势手）
+
+- dominant pole （主极点；主导极点）
+
+:::
+
+:::note{title=🎤例句}
+
+- The dominant male gorilla is the largest in the group. （领头的公猩猩是这群大猩猩中体形最大的一个。）
+
+- Japan became dominant in the mass market during the 1980s. （20世纪80年代日本在大众市场上开始占据优势。）
+
+- its dominant position within the group （它在该组织中的突出地位）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- ruling, predominant （显性的；[生物]占优势的；[数]支配的，统治的）
+
+:::
+
+
+## 2333. heading
+
+**标题； 主题**
+
+:::tip{title=🤩短语}
+
+- cold heading （冷镦；冷作头）
+
+- heading stage （抽穗期；出穗期）
+
+- heading up （抬高水位）
+
+- heading machine （掘进机；顶镦机；螺丝打头机；封头机）
+
+- subject heading （主题标目）
+
+- magnetic heading （[航海]磁艏向）
+
+- heading angle （航向角，迎波角；（汽车）方位角；航向改变角）
+
+:::
+
+:::note{title=🎤例句}
+
+- chapter headings （章节标题）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- title, titel （[计][图情]标题；（足球）头球；[通信]信头）
+
+:::
+
+
+## 2334. denounce
+
+**谴责， 公开指责， 抨击； 告发**
+
+:::note{title=🎤例句}
+
+- The group denounced the failure by the authorities to take action. （该团体谴责当局没有采取行动。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- condemn, denunciate （谴责；告发；公然抨击；通告废除）
+
+:::
+
+
+## 2335. swampy
+
+**沼泽的， 湿地的； 松软的**
+
+:::note{title=🎤例句}
+
+- The hurricane first hit land in remote swampy areas of the miskito coast and moved through villages further inland. （飓风首次登陆的地点为米斯基托海岸偏僻的沼泽地区，并越过村庄向内陆深入。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- marshy, palustrine （[地理][水文]沼泽的；湿地的；沼泽多的；松软的）
+
+:::
+
+
+## 2336. verge
+
+**接近，濒临**
+
+**草地**
+
+:::tip{title=🤩短语}
+
+- on the verge of （濒临于；接近于）
+
+:::
+
+:::note{title=🎤例句}
+
+- to verge on chaos （）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- go on for, come close to （濒临，接近；处在边缘）
+
+- margin, brink, suburb, beaded edge （边缘）
+
+:::
+
+
+## 2337. framework
+
+**框架， 构架； 原则， 准则； 机制， 结构**
+
+:::tip{title=🤩短语}
+
+- basic framework （基本框架）
+
+- legal framework （法律体制）
+
+- conceptual framework （概念框架；基本概念）
+
+- analytical framework （分析框架；分析架构）
+
+- structural framework （结构骨架）
+
+- net framework （n. [计算机]微软网络框架）
+
+- regulatory framework （规章制度；规管架构）
+
+- framework structure （架状结构）
+
+- steel framework （钢构架）
+
+- practical framework （实践范围）
+
+- social framework （社会机构）
+
+- framework material （骨架材料）
+
+- metal framework （[化]金属框架）
+
+:::
+
+:::note{title=🎤例句}
+
+- We have to act within the existing legal framework. （我们必须在现行的法律框架下行事。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- configuration, mechanics, texture, structure （框架，骨架；结构，[建]构架）
+
+:::
+
+
+## 2338. milieu
+
+**出身背景； 社会环境**
+
+:::note{title=🎤例句}
+
+- Proust’s work reflected his own social and cultural milieu. （普鲁斯特的作品反映了其所在的社会和文化背景。）
+
+- She never felt happy in a student milieu. （在学生中间她从不觉得快乐。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- context, circumstance, setting, surrounding, condition （环境；周围；出身背景）
+
+:::
+
+
+## 2339. microorganism
+
+**微生物**
+
+:::tip{title=🤩短语}
+
+- pathogenic microorganism （病原微生物；致病微生物）
+
+:::
+
+:::note{title=🎤例句}
+
+- Observe microorganism in the water and in the sediment by a microscope. （用显微镜观察水样本和基质样本中的微生物。）
+
+- Objective To investigate the effectiveness of microorganism elimination by routine purified technology of water plants in Shenzhen. （目的调查分析深圳区镇水厂常规水处理工艺去除微生物的净化效果。）
+
+- In order to improve the microorganism fermentation process of producing glutamine, an electrodialysis method was developed to separate glutamic acid and glutamine. （为改进微生物发酵法生产谷氨酰胺的流程，提出用电渗析方法来分离谷氨酰胺和谷氨酸。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- organism, animalcule （[微]微生物；微小动植物）
+
+:::
+
+
+## 2340. entity
+
+**实体， 独立存在物**
+
+:::tip{title=🤩短语}
+
+- legal entity （法人实体）
+
+- economic entity （经济实体；经济单位）
+
+- business entity （营业单位；企业单位）
+
+- accounting entity （会计主体；会计单位）
+
+- entity type （实体类型）
+
+- separate legal entity （独立法人；独立法定单位实体）
+
+- separate entity （单独实体；独立单位）
+
+:::
+
+:::note{title=🎤例句}
+
+- The mind exists as a separate entity. （思想作为一个独立的实体存在。）
+
+- Good design brings a house and garden together as a single entity. （优秀的设计能把一所房子和花园合为一体。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- presence, existence, essence, principle, texture （实体；存在；本质）
+
+:::
+
+
+## 2341. chronicle
+
+**把…载入编年史**
+
+**编年史， 年代记**
+
+:::note{title=🎤例句}
+
+- His life is chronicled in a new biography published last week. （他的生平被写成一本新传记，于上周出版。）
+
+- The book chronicles the events leading up to the war. （该书记述了导致战争爆发的一系列事件。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- page, register （编年史，年代记；记录）
+
+- register, to record （记录；把…载入编年史）
+
+:::
+
+
+## 2342. tide
+
+**涨落**
+
+**潮， 潮汐； 潮流， 趋势**
+
+:::tip{title=🤩短语}
+
+- spring tide （大潮；涨潮）
+
+- turn the tide （扭转局势；转变运气）
+
+- high tide （高潮；满潮；高潮时间）
+
+- red tide （赤潮）
+
+- low tide （低潮；（事物发展的）低落期）
+
+- tide over （克服，度过；度过困难时期）
+
+- time and tide （岁月；顺流逆流）
+
+- rising tide （涨潮）
+
+- flood tide （涨潮；高峰）
+
+- at high tide （处于高潮中）
+
+- storm tide （风暴潮）
+
+- ebb tide （退潮，落潮）
+
+- tide level （潮位；潮面）
+
+- double tides （◎(常与roar连用)猛烈地，狂怒地）
+
+- tide gauge （n. 检潮仪）
+
+- astronomical tide （n. 天文潮；特大潮汐）
+
+:::
+
+:::note{title=🎤例句}
+
+- Is the tide going out or coming in ? （现在是退潮还是涨潮？）
+
+- We went for a walk and got cut off by the tide . （我们去散步，结果被潮水困住了。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- tendency, direction, trend, stream, set （趋势，[海洋]潮流；潮汐）
+
+:::
+
+
+## 2343. prohibit
+
+**禁止， 阻止**
+
+:::tip{title=🤩短语}
+
+- strictly prohibit （严禁）
+
+:::
+
+:::note{title=🎤例句}
+
+- Smoking is strictly prohibited inside the factory. （厂区严禁吸烟。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- stem, block, dispute, bar, discourage （阻止，禁止）
+
+:::
+
+
+## 2344. frugal
+
+**节约的， 节俭的； 少量的**
+
+:::note{title=🎤例句}
+
+- As children we were taught to be frugal and hard-working. （我们小时候被教育要节俭和勤劳。）
+
+- He led a remarkably frugal existence. （他过着极其节俭的生活。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- plain, provident （节俭的；朴素的；花钱少的）
+
+:::
+
+
+## 2345. franchise
+
+**特权，特许；特许经销权；选举权**
+
+**赋予特权； 赋予选举权**
+
+:::tip{title=🤩短语}
+
+- franchise chain （特许连锁）
+
+- franchise rights （特许经营权）
+
+:::
+
+:::note{title=🎤例句}
+
+- ...fast-food franchises. （…快餐特许经营权。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- jurisdiction, special privilege （[贸易]特权；公民权；经销权；管辖权）
+
+- citizenize （给…以特许（或特权）；赋予公民权）
+
+:::
+
+
+## 2346. replica
+
+**复制品**
+
+:::note{title=🎤例句}
+
+- replica guns （仿真枪）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- reproduction, ectype （[古][电影]复制品，复制物）
+
+:::
+
+
+## 2347. bacteria
+
+**细菌**
+
+:::tip{title=🤩短语}
+
+- lactic acid bacteria （乳酸菌）
+
+- pathogenic bacteria （致病菌；病原菌）
+
+- photosynthetic bacteria （光合细菌）
+
+- harmful bacteria （有害细菌；病菌）
+
+- anaerobic bacteria （厌氧细菌，厌氧菌；嫌气细菌）
+
+- sulfate reducing bacteria （硫酸盐还原菌）
+
+- coliform bacteria （大肠型细菌）
+
+- aerobic bacteria （需氧细菌；好氧细菌）
+
+- heterotrophic bacteria （异养细菌）
+
+- acetic acid bacteria （醋酸菌；乙酸菌；醋酸细菌）
+
+- denitrifying bacteria （反硝化细菌）
+
+- intestinal bacteria （肠道细菌）
+
+- nitrifying bacteria （硝化细菌；硝化菌）
+
+- methane bacteria （甲烷菌；甲烷细菌）
+
+- iron bacteria （铁细菌）
+
+- gram negative bacteria （革兰氏阴性细菌）
+
+- symbiotic bacteria （共生菌）
+
+- sulphate reducing bacteria （硫酸还原物）
+
+:::
+
+:::note{title=🎤例句}
+
+- Some of these bacteria are actually good for you. （实际上，这些细菌有的对你是很有好处的。）
+
+- When you eat off the plate, all of those bacteria go into your stomach. （当你吃掉了盘子里的食物时，这些细菌就会进入你的肚子。）
+
+- But she correctly points out that bacteria are everywhere: on us, in us and all around us. （但是她正确地指出细菌无处不在：在我们身上，在我们体内以及在我们周围。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- microbe, bacilus （细菌）
+
+:::
+
+
+## 2348. laureate
+
+**享有殊荣的**
+
+**桂冠诗人；荣誉获得者**
+
+:::tip{title=🤩短语}
+
+- poet laureate （桂冠诗人；优秀的诗人）
+
+:::
+
+:::note{title=🎤例句}
+
+- Nigeria’s Nobel laureate, Wole Soyinka （尼日利亚的诺贝尔奖获得者沃莱·索因卡）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- honourable （戴桂冠的；荣誉的）
+
+- Poet Laureate （桂冠诗人；得奖者）
+
+:::
+
+
+## 2349. reign
+
+**统治，支配；**
+
+:::tip{title=🤩短语}
+
+- reign over （统治；盛行）
+
+- reign of terror （恐怖统治）
+
+- reign supreme （◎主宰；称雄）
+
+:::
+
+:::note{title=🎤例句}
+
+- ...Queen Victoria's reign. （…维多利亚女王的统治时期。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- predominate over, to rule （统治；支配；盛行；君临）
+
+- governance, disposal, rule, dominance （统治；统治时期；支配）
+
+:::
+
+
+## 2350. infirm
+
+**虚弱的； 不坚定的**
+
+:::note{title=🎤例句}
+
+- ...her aging, infirm husband. （…她那年迈体弱的丈夫。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- marasmic, hypodynamic （衰弱的；意志薄弱的；不坚固的）
+
+:::
+
+
+## 2351. tempo
+
+**速度， 节奏； 行进速度**
+
+:::note{title=🎤例句}
+
+- the easy tempo of island life （岛上生活的轻松节奏）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- speed, rate, beat （速度，发展速度；拍子）
+
+:::
+
+
+## 2352. manner
+
+**方式，风格；**
+
+:::tip{title=🤩短语}
+
+- in a manner （在某种意义上；在某种程度上）
+
+- in the manner （在现行中；当场）
+
+- in this manner （以这种方式；如此）
+
+- all manner of （adj. 各种各样的；形形色色的（人，东西等））
+
+- in the manner of （以……方式；照……的式样）
+
+- in the same manner （同样地；以同样的方式）
+
+- good manner （好方法；有礼貌）
+
+- in such a manner （如此；于是）
+
+- in like manner （adv. 同样地）
+
+- after the manner of （…式的；仿效；学…的样）
+
+- no manner of （一点…也没有，根本没有）
+
+- in manner of （凭借……方式）
+
+:::
+
+:::note{title=🎤例句}
+
+- He felt some guilt over the manner of her death. （她以这种方式死去，他心里有些内疚。）
+
+- The issue will be resolved in a manner that is fair to both sides. （这个问题将用对双方都公平的方式来解决。）
+
+- criticism of the manner in which the bishop was appointed （对主教任命方式的批评）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- way of, mode, category, variety, nature （方式；习惯；种类；规矩；风俗）
+
+:::
+
+
+## 2353. associate
+
+**结交； 关联**
+
+**副的；合伙的**
+
+**伙伴**
+
+:::tip{title=🤩短语}
+
+- associate professor （副教授）
+
+- associate with （v. 联合；与…联系在一起；和…来往）
+
+- associate degree （n. 美国大学修满二年课程的肄业证书）
+
+- associate director （副主任，副总监；副董事；联席董事；副导演）
+
+- research associate （研究助理；助理研究员）
+
+- business associate （生意伙伴；业务联合）
+
+- associate member （n. 准会员）
+
+- associate dean （副院长）
+
+- associate editor （副主编；副编辑）
+
+- associate justice （助理法官，副大法官）
+
+- associate membership （副会员，准会员资格）
+
+- associate of arts （副学士（修满两年大学课程））
+
+:::
+
+:::note{title=🎤例句}
+
+- I haven't been associated with the project over the last year. （我过去一年不曾跟这个项目有关联。）
+
+- Mr. Lin is associate director of the Institute. （林先生是该研究所的副主任。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- company, travel, sort, mix （交往；结交）
+
+- brother, partner, fellow, comrade, colleague （[管理]同事，伙伴；关联的事物）
+
+- combine （联想；使联合；使发生联系）
+
+- deputy, linked, vice, joint, auxiliary （副的；联合的）
+
+:::
+
+
+## 2354. scrupulous
+
+**多顾虑的， 谨慎的； 一丝不苟的， 严谨的； 审慎正直的， 恪守道德规范的**
+
+:::note{title=🎤例句}
+
+- Not all lawyers are as scrupulous as she is. （并不是所有的律师都像她那样正直。）
+
+- scrupulous honesty （至诚）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- meticulous, circumspect （细心的；小心谨慎的；一丝不苟的）
+
+:::
+
+
+## 2355. gleam
+
+**闪光， 闪烁； 流露出**
+
+**微光；一丝，一线；表露**
+
+:::note{title=🎤例句}
+
+- His teeth gleamed under his moustache. （他的八字须下面，牙齿晶莹发亮。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- glimmer, stroboflash （微光；闪光；瞬息的一现）
+
+- spark, coruscate （闪烁；隐约地闪现）
+
+- flicker （使闪烁；使发微光）
+
+:::
+
+
+## 2356. glean
+
+**点滴搜集， 四处收集**
+
+:::note{title=🎤例句}
+
+- At present we're gleaning information from all sources. （目前我们正从所有渠道慢慢收集信息。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- gather in, to collect （收集（资料）；拾（落穗））
+
+- gather in, to collect （收集；拾落穗）
+
+:::
+
+
+## 2357. detract
+
+**减损； 贬低， 诋毁**
+
+:::tip{title=🤩短语}
+
+- detract from （贬低，减损；使逊色）
+
+:::
+
+:::note{title=🎤例句}
+
+- They feared that the publicity surrounding him would detract from their own election campaigns. （他们担心围绕他的宣传会有损他们自已的竞选活动。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- shift, divert from （转移，使分心）
+
+- thumb down, play down （贬低；减去）
+
+:::
+
+
+## 2358. pin
+
+**钉住；固定**
+
+**大头针； 钢钉； 胸针； 徽章**
+
+:::tip{title=🤩短语}
+
+- pins and needles （如坐针毡；焦躁不安；手脚发麻）
+
+- pin something on someone （[口语]把某事的责任加上某人身上，把某事归罪于某人）
+
+- on pins and needles （如坐针毡；坐立不安）
+
+- pin down （确定；使受约束；阻止）
+
+- piston pin （活塞销）
+
+- pin hole （针孔，塞孔；气泡）
+
+- ejector pin （出坯杆，起模杆；推顶杆，推钉）
+
+- on the pin （注意；留神）
+
+- guide pin （导销，定位销）
+
+- pin on （把……归罪于；钉住）
+
+- safety pin （安全别针）
+
+- pin number （插脚数；引脚数；管脚号码）
+
+- angle pin （斜针；斜导边；角度针）
+
+- rolling pin （擀面杖）
+
+- crank pin （曲柄销；拐肘销）
+
+- pin up （钉住）
+
+- cotter pin （开口销）
+
+- pin money （n. 零花钱）
+
+- pivot pin （中心承枢；中心销钉；枢轴销）
+
+- pin roll （小齿轮；销辊）
+
+:::
+
+:::note{title=🎤例句}
+
+- They pinned a notice to the door. （他们把通知钉在门上。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- needle, plug （大头针，针；栓；琐碎物）
+
+- nail up, transfix （钉住；压住；将……用针别住）
+
+:::
+
+
+## 2359. pit
+
+**使有坑，使…表面有斑点**
+
+**大坑， 深坑； 矿井； 陷阱**
+
+:::tip{title=🤩短语}
+
+- foundation pit （基坑）
+
+- open pit （adj. 露天采矿的）
+
+- open pit mine （露天矿）
+
+- pit of the stomach （心窝，胸口）
+
+- bottomless pit （无底洞）
+
+- pit stop （加油停车；旅行休息站）
+
+- soaking pit （均热炉；浸池；等温坑）
+
+- coal pit （煤窑，煤矿）
+
+- sand pit （砂坑；采沙坑）
+
+- fire pit （火山坑；熔岩穴）
+
+- pit bull （比特犬；斗牛㹴狗；斗牛㹴狗式卫士）
+
+- pit viper （响尾蛇；蝮蛇）
+
+- corrosion pit （腐蚀斑点，腐蚀坑）
+
+:::
+
+:::note{title=🎤例句}
+
+- Dad first went down the pit (= worked in a coal mine ) when he was 15 years old. （爸爸第一次下煤矿井时才15岁。）
+
+- a national strike against pit closures （抗议关闭煤矿井的全国性罢工）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- mine, trap （[矿业]矿井；深坑；陷阱；（物体或人体表面上的）凹陷；（英国剧场的）正厅后排；正厅后排的观众）
+
+- cache （使竞争；窖藏；使凹下；去…之核；使留疤痕）
+
+- cave, sink marks （凹陷；起凹点）
+
+:::
+
+
+## 2360. motif
+
+**主题， 主旨； 图形**
+
+:::note{title=🎤例句}
+
+- The theme of creation is a recurrent motif in Celtic mythology. （天地万物的创造是凯尔特神话中反复出现的主题。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- topic, theme, subject, substance, incentive （主题；动机；主旨；图形；意念）
+
+:::
+
+
+## 2361. stock
+
+**储备，储存**
+
+**库存，现货；备用物；股份，股票；世系，血统；家畜，**
+
+:::tip{title=🤩短语}
+
+- stock market （股票市场；证券市场；股票交易）
+
+- in stock （有存货；现有）
+
+- stock exchange （证券交易所）
+
+- stock price （股票价格；股票行市；交易所卖价）
+
+- stock raising （n. 畜牧业）
+
+- stock index （股票指数；证券指数）
+
+- joint stock （合股）
+
+- out of stock （adv. 已脱销）
+
+- stock option （职工优先认股权）
+
+- stock company （股份公司）
+
+- on the stock exchange （在证券交易(或买卖)上）
+
+- take stock （清查存货；评估状况）
+
+- shanghai stock exchange （上海证券交易所）
+
+- rolling stock （全部车辆）
+
+- new york stock exchange （纽约证券交易所）
+
+- nursery stock （苗木）
+
+- capital stock （股本，股金总额）
+
+- common stock （普通股；普通股股本）
+
+- stock investment （n. 股票投资）
+
+- stock management （库存管理；股票管理）
+
+:::
+
+:::note{title=🎤例句}
+
+- We stock a wide range of kitchen equipment. （我们备有各种厨房用品。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- birth, blood, stem （[金融]股份，股票；[贸易]库存；血统；树干）
+
+- ordinary, mediocre （[贸易]存货的，常备的；平凡的）
+
+- be furnished with （进货；备有；装把手于…）
+
+- corner （囤积；办货；出新芽）
+
+:::
+
+
+## 2362. suspend
+
+**吊， 悬挂； 暂缓， 暂停， 中止**
+
+:::tip{title=🤩短语}
+
+- suspend production （停产）
+
+- suspend payment （v. 宣告破产）
+
+:::
+
+:::note{title=🎤例句}
+
+- Sales of the drug will be suspended until more tests are completed. （这种药品在完成进一步检验之前将暂停销售。）
+
+- Talks between the two countries have now been suspended. （两国间的对话现已中止。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- wait, phase back （使暂停；延缓，推迟；使悬浮）
+
+:::
+
+
+## 2363. swap
+
+**交换，掉换**
+
+**交换， 掉换； 交换物， 被调换者**
+
+:::tip{title=🤩短语}
+
+- interest rate swap （利率互换；利率掉期）
+
+- credit default swap （信用违约交换）
+
+- currency swap （[经]货币套换；互惠外汇信贷）
+
+- debt-to-equity swap （债转股）
+
+- swap space （交换空间）
+
+- swap out （换出；置換出）
+
+- swap market （外汇掉期市场）
+
+- swap in （换入；在互换）
+
+- swap file （n. 交换文件）
+
+:::
+
+:::note{title=🎤例句}
+
+- Do you want to swap umbrellas? （你想交换雨伞吗？）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- exchange, reciprocation （[计]交换；交换之物）
+
+- trade, traffic （[计]交换；交易）
+
+:::
+
+
+## 2364. ritual
+
+**仪式的； 习惯的， 例行的**
+
+**典礼，仪式；例行公事，老规矩**
+
+:::tip{title=🤩短语}
+
+- ritual dance （仪式之舞；祭祀之舞）
+
+:::
+
+:::note{title=🎤例句}
+
+- The police issued the usual ritual apology. （警方发表了例行公事式的道歉。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- tradition, ceremony, convention, usage, service （仪式；惯例；礼制）
+
+- routine, ceremonial （仪式的；例行的；礼节性的）
+
+:::
+
+
+## 2365. surge
+
+**涌动；蜂拥而出；飞涨，**
+
+:::tip{title=🤩短语}
+
+- storm surge （风暴潮；风暴汹涌）
+
+- surge tank （缓冲槽；平衡水箱；通风油箱（等于surge chamber））
+
+- surge protection （过载保护）
+
+- surge chamber （调压室，调节室）
+
+- surge current （冲击（浪涌）电流）
+
+- surge arrester （电涌放电器；冲击吸收器；过电压吸收器；电涌特性喘振特性）
+
+- surge voltage （[计]冲击电压）
+
+- surge pressure （峰值压力；冲击压力；水锤压力）
+
+- lightning surge （雷电突波；雷电冲击波；雷涌）
+
+- surge protector （浪涌保护器，浪涌电压保护器）
+
+- power surge （动力高峰）
+
+- surge wave （水击波；碎浪波；涌波）
+
+- surge impedance （[电工学]突波阻抗；特性阻抗；浪涌阻抗）
+
+- pressure surge （压力波动，冲击压力）
+
+- surge bin （贮仓，储料仓；缓冲仓；平衡料仓）
+
+- current surge （电流浪涌；电流冲击）
+
+:::
+
+:::note{title=🎤例句}
+
+- She could feel anger surging inside her. （她感到怒火中烧。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- very rough seas （大浪；汹涌澎湃；巨涌）
+
+- sharp rise, balloon （激增；汹涌）
+
+- jolt, jounce （使颠簸）
+
+:::
+
+
+## 2366. basin
+
+**盆， 脸盆； 盆地； 流域**
+
+:::tip{title=🤩短语}
+
+- river basin （流域）
+
+- tarim basin （塔里木盆地（位于中国西部））
+
+- lake basin （湖盆；湖泊盆地）
+
+- drainage basin （（美）[地]（河流的）流域；流域盆地）
+
+- fault basin （断层盆地，断陷盆地）
+
+- wash basin （洗脸盆；洗涤盆）
+
+- stilling basin （消力池；静水池；沉水池；消速池）
+
+- coal basin （煤盆地；煤田；成煤盆地）
+
+- a basin of （一脸盆……）
+
+- ocean basin （洋盆；海洋盆地）
+
+- basin area （硫面积）
+
+- harbor basin （港池；港域）
+
+- aeration basin （曝气池；曝气塘；通气池）
+
+- settling basin （沉降池；沉淀池）
+
+- detention basin （蓄洪水库，滞洪区域；拦洪水库）
+
+- tidal basin （潮汐湖；潮汐盆地；潮船坞；蓄潮池（等于tidal dock））
+
+- downfaulted basin （断陷盆地）
+
+- great basin （大盆地（美国西南部））
+
+- sedimentation basin （澄清池；沉淀池）
+
+- structural basin （构造盆地）
+
+:::
+
+:::note{title=🎤例句}
+
+- a wash basin （洗脸盆）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- valley, pot （水池；[水文]流域；[地理]盆地；盆）
+
+:::
+
+
+## 2367. resolute
+
+**坚决的， 果断的**
+
+:::note{title=🎤例句}
+
+- resolute opposition （坚决的反对）
+
+- resolute leadership （果断的领导）
+
+- She remained resolute in her belief that the situation would improve. （她依然坚信情况将会好转。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- determined, decided （坚决的；果断的）
+
+:::
+
+
+## 2368. tutor
+
+**辅导**
+
+**导师；家庭教师**
+
+:::tip{title=🤩短语}
+
+- private tutor （私人教师，家庭教师）
+
+- tutor system （导师制）
+
+:::
+
+:::note{title=🎤例句}
+
+- He was privately tutored. （他是由家庭教师教的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- restrict, hold oneself in （辅导；约束）
+
+- mentors, teacher counselor （导师；家庭教师；助教）
+
+:::
+
+
+## 2369. senator
+
+**参议员**
+
+:::note{title=🎤例句}
+
+- Senator Kennedy （肯尼迪参议员）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- commissioner, councilor （参议员；（古罗马的）元老院议员；评议员，理事）
+
+:::
+
+
+## 2370. reconcile
+
+**使协调； 使和解； 使顺从**
+
+:::tip{title=🤩短语}
+
+- reconcile with （与…和解）
+
+:::
+
+:::note{title=🎤例句}
+
+- Jonah and his youngest son were, on the surface at least, reconciled. （乔纳和他小儿子和好了，至少表面上如此。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- accord, unify （使一致；使和解；调停，调解；使顺从）
+
+:::
+
+
+## 2371. quantify
+
+**以数量表示， 量化**
+
+:::note{title=🎤例句}
+
+- an attempt to quantify the region’s social and economic decline （对该地区社会和经济衰退进行量化的尝试）
+
+:::
+
+## 2372. annul
+
+**宣布无效， 取消， 废除**
+
+:::note{title=🎤例句}
+
+- Their marriage was annulled last year. （他们的婚姻关系去年宣告解除。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- recall, abolish （取消；废除；宣告无效）
+
+:::
+
+
+## 2373. tempt
+
+**引诱， 诱惑； 吸引**
+
+:::note{title=🎤例句}
+
+- If you leave valuables in your car it will tempt thieves. （如果把贵重物品留在车上，会招来小偷的。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- attract, produce, cause, operate, occasion （诱惑；引起；冒…的风险；使感兴趣）
+
+:::
+
+
+## 2374. ethic
+
+**伦理；道德体系**
+
+:::tip{title=🤩短语}
+
+- work ethic （职业道德；职业伦理）
+
+- professional ethic （职业道德）
+
+- protestant ethic （新教伦理；新教价值观）
+
+:::
+
+:::note{title=🎤例句}
+
+- The old ethic of hard work has given way to a new ethic of instant gratification. （旧有的崇尚勤勉的道德观已被及时行乐的新观念所取代。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- moral rule, moral appeals （伦理；道德规范）
+
+- moral （伦理的；道德的（等于ethical））
+
+:::
+
+
+## 2375. basic
+
+**基本的， 基础的； 初步的， 初级的**
+
+:::tip{title=🤩短语}
+
+- basic principle （基本原理）
+
+- basic theory （基本理论）
+
+- basic level （基本水平）
+
+- basic knowledge （基础知识，基本知识）
+
+- basic concept （基本概念；本义）
+
+- basic structure （基本结构）
+
+- basic education （基础教育）
+
+- basic research （基本研究）
+
+- basic information （基本信息；基本资料）
+
+- basic data （基本资料；原始数据）
+
+- basic function （基本功能；基本函数）
+
+- basic law （基本法律；一国或一邦的政府的基本组织的书面说明）
+
+- basic unit （基本单元）
+
+- basic ideas （n. 基本观念）
+
+- basic course （基础课，基础课程；基本训练）
+
+- basic framework （基本框架）
+
+- basic design （基本设计；原图）
+
+- basic approach （基本方法）
+
+- basic english （基础英语）
+
+- basic model （基本模型）
+
+:::
+
+:::note{title=🎤例句}
+
+- the basic principles of chemistry （化学的基本原理）
+
+- The basic idea is simple. （基本思想很简单。）
+
+- {"COLLOINEXA":["basic research"]} （基础研究）
+
+- {"COLLOINEXA":["basic information"]} （基本信息）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- elementary, fundamental, essential, primary, first （[岩]基本的；基础的）
+
+- foundation, element, base, bed, factor （基础；要素）
+
+:::
+
+
+## 2376. twist
+
+**缠绕，扭曲；曲解，歪曲**
+
+**转折， 突然变化； 卷曲物**
+
+:::tip{title=🤩短语}
+
+- twists and turns （迂回曲折）
+
+- twist drill （n. 麻花钻；螺旋钻）
+
+- twist and turn （迂回曲折）
+
+- twist angle （扭转角）
+
+- twist off （扭断；拧开）
+
+- twist yarn （捻纱，经纱；加捻弹力纱）
+
+- direction of twist （捻向；撚向）
+
+:::
+
+:::note{title=🎤例句}
+
+- Her hands began to twist the handles of the bag she carried. （她的双手开始拧她拎着的那个包的拎柄。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- screw, harry （捻；拧；扭伤；编织；使苦恼）
+
+- distortion, strain （[力]扭曲；拧；扭伤）
+
+- bend, double up （扭动；弯曲）
+
+:::
+
+
+## 2377. absolve
+
+**赦免； 免除； 宽恕**
+
+:::note{title=🎤例句}
+
+- A police investigation yesterday absolved the police of all blame in the incident. （警方昨天的调查为其开脱了在这件事故中所有的责任。）
+
+- ...the inquiry which absolved the soldiers. （...免除士兵责任的查问。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- discharge, forgive （免除；赦免；[法]宣告…无罪）
+
+:::
+
+
+## 2378. seclusion
+
+**独处， 隐居； 隔离； 与世隔绝， 归隐**
+
+:::note{title=🎤例句}
+
+- They enjoyed ten days of peace and seclusion. （他们享受了十天与世隔绝的宁静生活。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- insulation, isolation, segregation （隔离；隐退；隐蔽的地方）
+
+:::
+
+
+## 2379. boulder
+
+**巨石， 巨砾**
+
+:::note{title=🎤例句}
+
+- It is thought that the train hit a boulder that had fallen down a cliff on to the track. （人们认为这列火车撞到了从悬崖滚到铁轨上的大圆石。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- ratchel, grait （[建]卵石，大圆石；[地质]巨砾）
+
+:::
+
+
+## 2380. locate
+
+**使坐落于； 找出， 定位**
+
+:::tip{title=🤩短语}
+
+- locate in （在某一点设置；在…定居；坐落于）
+
+:::
+
+:::note{title=🎤例句}
+
+- The scientists want to locate the position of the gene on a chromosome. （科学家们想找到该基因在染色体上的位置。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- lie on, stand on （位于；查找…的地点）
+
+- beach, make one's pitch （定位；定居）
+
+:::
+
+
+## 2381. Mesolithic
+
+**中石器时代的**
+
+**中石器时代**
+
+:::warning{title=🤔同义词}
+
+- Azilian （中石器时代的）
+
+- Miolithic （中石器时代）
+
+:::
+
+
+## 2382. bush
+
+**灌木； 荒野**
+
+:::tip{title=🤩短语}
+
+- george bush （乔治·布什（美国前总统））
+
+- around the bush （拐弯抹角；说话绕圈子）
+
+- beat about the bush （旁敲侧击；转弯抹角）
+
+- bearing bush （轴瓦，轴承衬）
+
+- beat around the bush （旁敲侧击；说话绕圈子）
+
+- bush bearing （衬套轴承；滑动轴承）
+
+- drill bush （钻套）
+
+- copper bush （铜套；铜轴套；铜衬套）
+
+:::
+
+:::note{title=🎤例句}
+
+- a rose bush （玫瑰丛）
+
+- The child was hiding in the bushes. （那孩子躲在灌木丛里。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- shrub, frutex （[林]灌木；矮树丛）
+
+- peter （以灌木装饰；使…精疲力竭）
+
+- cluster （丛生；浓密地生长）
+
+- robust, gross, rough, country （如灌木般长得低矮的；粗野的）
+
+:::
+
+
+## 2383. muse
+
+**沉思， 冥想**
+
+**灵感**
+
+:::note{title=🎤例句}
+
+- ‘Somewhere,’ he mused, ‘I’ve heard your name before.’ （“我以前在哪里，”他沉思着说，“听说过你的名字。”）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- reflection, meditation （沉思；冥想）
+
+- meditate on, be deep in thought （沉思；沉思地说）
+
+- meditate on, be deep in thought （沉思；凝望）
+
+:::
+
+
+## 2384. combat
+
+**战斗， 格斗**
+
+:::tip{title=🤩短语}
+
+- combat with （v. 与…战斗）
+
+- combat aircraft （战斗机）
+
+- combat corruption （反腐；惩治腐败）
+
+- combat power （战斗力）
+
+- hand-to-hand combat （肉搏战；白刃战）
+
+- combat zone （战斗区域，作战区）
+
+- combat fatigue （n. 战斗疲劳症；前线战士神经疲劳症）
+
+- combat for （v. 为…奋斗）
+
+:::
+
+:::note{title=🎤例句}
+
+- We flew over 200 combat missions in the war. （我们在战争中执行过两百多次战斗飞行任务。）
+
+- training in unarmed combat （徒手格斗训练）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- sit down on, to oppose （反对；与…战斗）
+
+- fight, conflict （战斗；搏斗）
+
+- action, fight, controversy （战斗；争论）
+
+- fighting （战斗的；为…斗争的）
+
+:::
+
+
+## 2385. despise
+
+**鄙视， 看不起**
+
+:::note{title=🎤例句}
+
+- She despised her neighbours. （她看不起她的邻居。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- slight, set light by （轻视，鄙视）
+
+:::
+
+
+## 2386. dioxide
+
+**二氧化物**
+
+:::tip{title=🤩短语}
+
+- carbon dioxide （二氧化碳）
+
+- titanium dioxide （二氧化钛）
+
+- sulfur dioxide （二氧化硫）
+
+- chlorine dioxide （二氧化碳）
+
+- silicon dioxide （[化]二氧化硅）
+
+- sulphur dioxide （[化]二氧化硫）
+
+- manganese dioxide （二氧化锰）
+
+- lead dioxide （[化]二氧化铅）
+
+- liquid carbon dioxide （液态二氧化碳）
+
+- nitrogen dioxide （[化]二氧化氮）
+
+- zirconium dioxide （二氧化锆）
+
+- carbon dioxide laser （二氧化碳激光器；二氧化碳雷射）
+
+- tin dioxide （[化]二氧化锡）
+
+- vanadium dioxide （二氧化钒）
+
+- cerium dioxide （二氧化铈）
+
+- carbon dioxide ice （干冰，固体二氧化碳）
+
+- tellurium dioxide （二氧化碲）
+
+:::
+
+:::note{title=🎤例句}
+
+- She is your indispensable oxygen, carbon dioxide is not essential you me. （她是你不可缺少的氧气，我是你可有可无的二氧化碳。）
+
+- This all has to do with photosynthesis, the process in which plants turn sunlight, carbon dioxide and water into food. （这一切都与光合作用有关，在这一过程中，植物将阳光、二氧化碳和水转变为食物。）
+
+- What was happening was this: in its pure state of repeating units of one titanium and two oxygen atoms, titanium dioxide is a semiconductor. （发生的事是这样的：在纯净的一个钛和两个氧原子组成的重复单位下，二氧化钛是一种半导体。）
+
+:::
+
+## 2387. grievous
+
+**令人忧伤的； 极严重的**
+
+:::note{title=🎤例句}
+
+- a grievous shortage of hospital beds （医院床位的严重短缺）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- painful, severe, hurt, bitter, smart （痛苦的；剧烈的）
+
+:::
+
+
+## 2388. oblong
+
+**矩形的，长方形的；椭圆形的**
+
+**矩形， 长方形； 椭圆形**
+
+:::note{title=🎤例句}
+
+- an oblong table （长方形桌子）
+
+- ...an oblong table. （...一张长方形桌子。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- elliptic, oval-shaped （椭圆形的；[数]长方形的）
+
+- ellipse, elliptical shape （椭圆形；[数]长方形）
+
+:::
+
+
+## 2389. unity
+
+**团结一致， 统一， 联合； 协调； 统一体**
+
+:::tip{title=🤩短语}
+
+- national unity （国家统一，民族团结）
+
+- unity is strength （团结就是力量；众志成城）
+
+- strengthen unity （加强团结）
+
+- live together in unity （和睦相处）
+
+- partition of unity （单位分解）
+
+:::
+
+:::note{title=🎤例句}
+
+- economic unity （经济统一）
+
+- European unity （欧洲的一体化）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- accordance, agreement, alliance, identity, combination, union, association （团结；一致；联合；个体）
+
+:::
+
+
+## 2390. genetics
+
+**遗传学**
+
+:::tip{title=🤩短语}
+
+- molecular genetics （分子遗传学）
+
+- population genetics （群体遗传学；人口遗传学）
+
+- medical genetics （医学遗传学；遗传医学；医学遗传学基础）
+
+- human genetics （人类遗传学）
+
+- quantitative genetics （数量遗传学；定量遗传学）
+
+- nature genetics （自然遗传学）
+
+- animal genetics （动物遗传学）
+
+- behavioral genetics （n. 行为遗传学）
+
+- reverse genetics （反向遗传学，逆遗传学）
+
+:::
+
+:::note{title=🎤例句}
+
+- Genetics is also bringing about dramatic changes in our understanding of cancer. （遗传学也正使我们对癌症的理解发生巨大的变化。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- hereditism （[遗]遗传学）
+
+:::
+
+
+## 2391. pursue
+
+**继续； 从事于； 追击， 追踪； 追求**
+
+:::tip{title=🤩短语}
+
+- pursue after （v. 追赶）
+
+:::
+
+:::note{title=🎤例句}
+
+- She plans to pursue a career in politics. （她计划从政。）
+
+- Students should pursue their own interests , as well as do their school work. （除了完成课业之外，学生也应该追求自己的兴趣。）
+
+- a campaign promise to pursue policies that will help the poor （贯彻扶贫政策的竞选承诺）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- maintain, undertake, address, have, course （继续；从事；追赶；纠缠）
+
+- give chase, proceed with （追赶；继续进行）
+
+:::
+
+
+## 2392. vulgar
+
+**下流的， 粗俗的； 普通的， 通俗的**
+
+:::note{title=🎤例句}
+
+- vulgar behaviour （粗俗的行为）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- popular, low, mainland, coarse, informal （粗俗的；通俗的；本土的）
+
+- populace, common man （平民，百姓）
+
+:::
+
+
+## 2393. catastrophe
+
+**灾难， 灾祸； 困难**
+
+:::tip{title=🤩短语}
+
+- catastrophe theory （[数]突变理论）
+
+- catastrophe model （激变模型）
+
+- catastrophe risk （巨灾风险；特殊风险）
+
+:::
+
+:::note{title=🎤例句}
+
+- From all points of view, war would be a catastrophe. （从各个方面来看，战争都会是一场灾难。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- fiasco, smashup （大灾难；大祸；惨败）
+
+:::
+
+
+## 2394. convey
+
+**运送， 运输； 传达， 表达**
+
+:::note{title=🎤例句}
+
+- All this information can be conveyed in a simple diagram. （所有这些信息可以通过一张简单的图表来表示。）
+
+- Ads convey the message that thin is beautiful. （广告传递的信息是: 瘦就是美。）
+
+- He was sent to convey a message to the UN Secretary General. （他被派去向联合国秘书长传达一条信息。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- communicate, release, transport （传达；运输；让与）
+
+:::
+
+
+## 2395. convex
+
+**凸出的**
+
+:::tip{title=🤩短语}
+
+- convex hull （[计]凸包；凸壳）
+
+- convex function （凸函数）
+
+- convex lens （凸透镜）
+
+- convex optimization （凸规划）
+
+- convex programming （[计]凸规划）
+
+- convex set （（管理数学）凸集）
+
+- convex polygon （凸多边形；凸面多角形）
+
+- convex surface （凸面）
+
+- convex mirror （凸面镜；凸镜）
+
+- convex combination （[数]凸组合）
+
+- convex curve （[数]凸曲线）
+
+- convex edge （外弯边；凸边，凸面）
+
+- convex body （凸体）
+
+- convex bank （凸岸）
+
+:::
+
+:::note{title=🎤例句}
+
+- a convex lens （凸透镜）
+
+- a convex mirror （凸镜）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- gibbous （凸面的；凸圆的）
+
+:::
+
+
+## 2396. redeem
+
+**赎回； 偿清， 付清； 兑换； 弥补， 补偿； 履行， 遵守**
+
+:::note{title=🎤例句}
+
+- Olivier’s performance redeemed an otherwise second-rate play. （奥利维尔的表演补救了一出本是二流水平的戏。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- fulfill, turn, restore, pay, repair （赎回；挽回；兑换；履行；补偿；恢复）
+
+:::
+
+
+## 2397. skull
+
+**颅骨， 头骨； 脑袋； 头脑**
+
+:::note{title=🎤例句}
+
+- He can’t seem to get it into his skull that I’m just not interested in him. （他这个笨蛋好像无法明白我根本对他不感兴趣。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- crania, braincase （头盖骨，脑壳）
+
+:::
+
+
+## 2398. rationality
+
+**理性； 合理性**
+
+:::tip{title=🤩短语}
+
+- bounded rationality （有限理性）
+
+:::
+
+:::note{title=🎤例句}
+
+- Organizational effectiveness does not lie in that narrow minded concept called rationality. It lies in the blend of clearheaded logic and powerful intuition. （组织的有效性并不在于那个称为合理性的坐井观天的概念。它是清晰的逻辑和强有力的直觉的融合。）
+
+- But whoever has undergone the intense experience of successful advances made in this domain is moved by profound reverence for the rationality made manifest in existence. （但凡是曾经在这个领域里胜利前进中有过深切经验的人，对存在中所显示出来的合理性，都会感到深挚的崇敬。）
+
+- The military conceptual model is the first abstract to the military action world(space), the accuracy and rationality it expresses the military system is the key point of battle simulation. （军事概念模型是对军事行为空间进行的第一次抽象，它对军事系统表达的准确性和合理性将是作战仿真模拟质量的关键。）
+
+:::
+
+:::warning{title=🤔同义词}
+
+- justifiability （[数]合理性；合理的行动）
+
+:::
+
+
+## 2399. monogamy
+
+**一夫一妻制**
+
+:::note{title=🎤例句}
+
+- People still opt for monogamy and marriage. （人们还是选择单一配偶制和婚姻。）
+
+:::
+
